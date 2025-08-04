@@ -1,0 +1,3060 @@
+[
+  {
+    "id": 1,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Expands federal oversight and increases public access in the area of health insurance.",
+    "stance": "Liberal",
+    "predicted_raw": -0.09385013580322266
+  },
+  {
+    "id": 2,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Reduces federal involvement and promotes private sector solutions in natural gas and oil (including offshore oil and gas).",
+    "stance": "Conservative",
+    "predicted_raw": -0.13211888074874878
+  },
+  {
+    "id": 3,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Reduces federal involvement and promotes private sector solutions in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Conservative",
+    "predicted_raw": 0.018275976181030273
+  },
+  {
+    "id": 4,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Expands federal oversight and increases public access in the area of pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Liberal",
+    "predicted_raw": 0.053991079330444336
+  },
+  {
+    "id": 5,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Centrist",
+    "predicted_raw": 0.02421104907989502
+  },
+  {
+    "id": 6,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Expands federal oversight and increases public access in the area of higher education.",
+    "stance": "Liberal",
+    "predicted_raw": -0.17420947551727295
+  },
+  {
+    "id": 7,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Expands federal oversight and increases public access in the area of pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Liberal",
+    "predicted_raw": 0.053991079330444336
+  },
+  {
+    "id": 8,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Reduces federal involvement and promotes private sector solutions in higher education.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06644392013549805
+  },
+  {
+    "id": 9,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Expands federal oversight and increases public access in the area of employee relations and labor unions.",
+    "stance": "Liberal",
+    "predicted_raw": -0.3193308115005493
+  },
+  {
+    "id": 10,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Expands federal oversight and increases public access in the area of employee relations and labor unions.",
+    "stance": "Liberal",
+    "predicted_raw": -0.3193308115005493
+  },
+  {
+    "id": 11,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Reduces federal involvement and promotes private sector solutions in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Conservative",
+    "predicted_raw": 0.38540327548980713
+  },
+  {
+    "id": 12,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in air pollution, climate change, and noise pollution.",
+    "stance": "Centrist",
+    "predicted_raw": -0.08829647302627563
+  },
+  {
+    "id": 13,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in health insurance.",
+    "stance": "Centrist",
+    "predicted_raw": -0.16449618339538574
+  },
+  {
+    "id": 14,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Reduces federal involvement and promotes private sector solutions in health insurance.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06241559982299805
+  },
+  {
+    "id": 15,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Reduces federal involvement and promotes private sector solutions in elderly issues and assistance programs.",
+    "stance": "Conservative",
+    "predicted_raw": -0.07234025001525879
+  },
+  {
+    "id": 16,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 17,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Reduces federal involvement and promotes private sector solutions in air pollution, climate change, and noise pollution.",
+    "stance": "Conservative",
+    "predicted_raw": -0.40489768981933594
+  },
+  {
+    "id": 18,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Expands federal oversight and increases public access in the area of higher education.",
+    "stance": "Liberal",
+    "predicted_raw": -0.17420947551727295
+  },
+  {
+    "id": 19,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Centrist",
+    "predicted_raw": 0.02421104907989502
+  },
+  {
+    "id": 20,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Centrist",
+    "predicted_raw": 0.3404632806777954
+  },
+  {
+    "id": 21,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Centrist",
+    "predicted_raw": 0.3404632806777954
+  },
+  {
+    "id": 22,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Reduces federal involvement and promotes private sector solutions in health insurance.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06241559982299805
+  },
+  {
+    "id": 23,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in health insurance.",
+    "stance": "Centrist",
+    "predicted_raw": -0.16449618339538574
+  },
+  {
+    "id": 24,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in voting rights.",
+    "stance": "Centrist",
+    "predicted_raw": -0.5272403657436371
+  },
+  {
+    "id": 25,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Centrist",
+    "predicted_raw": 0.3404632806777954
+  },
+  {
+    "id": 26,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Reduces federal involvement and promotes private sector solutions in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Conservative",
+    "predicted_raw": 0.018275976181030273
+  },
+  {
+    "id": 27,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 28,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in health insurance.",
+    "stance": "Centrist",
+    "predicted_raw": -0.16449618339538574
+  },
+  {
+    "id": 29,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 30,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Expands federal oversight and increases public access in the area of health insurance.",
+    "stance": "Liberal",
+    "predicted_raw": -0.09385013580322266
+  },
+  {
+    "id": 31,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Reduces federal involvement and promotes private sector solutions in air pollution, climate change, and noise pollution.",
+    "stance": "Conservative",
+    "predicted_raw": -0.40489768981933594
+  },
+  {
+    "id": 32,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in elderly issues and assistance programs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.009985089302062988
+  },
+  {
+    "id": 33,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Reduces federal involvement and promotes private sector solutions in health insurance.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06241559982299805
+  },
+  {
+    "id": 34,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Expands federal oversight and increases public access in the area of health insurance.",
+    "stance": "Liberal",
+    "predicted_raw": -0.09385013580322266
+  },
+  {
+    "id": 35,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in low and middle-income housing programs and needs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1361965537071228
+  },
+  {
+    "id": 36,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Expands federal oversight and increases public access in the area of natural gas and oil (including offshore oil and gas).",
+    "stance": "Liberal",
+    "predicted_raw": -0.08701860904693604
+  },
+  {
+    "id": 37,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Reduces federal involvement and promotes private sector solutions in elderly issues and assistance programs.",
+    "stance": "Conservative",
+    "predicted_raw": -0.07234025001525879
+  },
+  {
+    "id": 38,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Reduces federal involvement and promotes private sector solutions in higher education.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06644392013549805
+  },
+  {
+    "id": 39,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Reduces federal involvement and promotes private sector solutions in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Conservative",
+    "predicted_raw": 0.38540327548980713
+  },
+  {
+    "id": 40,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in elderly issues and assistance programs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.009985089302062988
+  },
+  {
+    "id": 41,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 42,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 43,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Reduces federal involvement and promotes private sector solutions in air pollution, climate change, and noise pollution.",
+    "stance": "Conservative",
+    "predicted_raw": -0.40489768981933594
+  },
+  {
+    "id": 44,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Reduces federal involvement and promotes private sector solutions in elderly issues and assistance programs.",
+    "stance": "Conservative",
+    "predicted_raw": -0.07234025001525879
+  },
+  {
+    "id": 45,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Expands federal oversight and increases public access in the area of natural gas and oil (including offshore oil and gas).",
+    "stance": "Liberal",
+    "predicted_raw": -0.08701860904693604
+  },
+  {
+    "id": 46,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Centrist",
+    "predicted_raw": 0.02421104907989502
+  },
+  {
+    "id": 47,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Expands federal oversight and increases public access in the area of natural gas and oil (including offshore oil and gas).",
+    "stance": "Liberal",
+    "predicted_raw": -0.08701860904693604
+  },
+  {
+    "id": 48,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Reduces federal involvement and promotes private sector solutions in health insurance.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06241559982299805
+  },
+  {
+    "id": 49,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in air pollution, climate change, and noise pollution.",
+    "stance": "Centrist",
+    "predicted_raw": -0.08829647302627563
+  },
+  {
+    "id": 50,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in low and middle-income housing programs and needs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1361965537071228
+  },
+  {
+    "id": 51,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in employee relations and labor unions.",
+    "stance": "Centrist",
+    "predicted_raw": -0.4983181357383728
+  },
+  {
+    "id": 52,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Reduces federal involvement and promotes private sector solutions in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Conservative",
+    "predicted_raw": 0.018275976181030273
+  },
+  {
+    "id": 53,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in higher education.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1422836184501648
+  },
+  {
+    "id": 54,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in higher education.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1422836184501648
+  },
+  {
+    "id": 55,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Reduces federal involvement and promotes private sector solutions in employee relations and labor unions.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4122849702835083
+  },
+  {
+    "id": 56,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Reduces federal involvement and promotes private sector solutions in elderly issues and assistance programs.",
+    "stance": "Conservative",
+    "predicted_raw": -0.07234025001525879
+  },
+  {
+    "id": 57,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Expands federal oversight and increases public access in the area of monetary policy, federal reserve board, and the treasury.",
+    "stance": "Liberal",
+    "predicted_raw": 0.12354540824890137
+  },
+  {
+    "id": 58,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Reduces federal involvement and promotes private sector solutions in natural gas and oil (including offshore oil and gas).",
+    "stance": "Conservative",
+    "predicted_raw": -0.13211888074874878
+  },
+  {
+    "id": 59,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Reduces federal involvement and promotes private sector solutions in health insurance.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06241559982299805
+  },
+  {
+    "id": 60,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Expands federal oversight and increases public access in the area of natural gas and oil (including offshore oil and gas).",
+    "stance": "Liberal",
+    "predicted_raw": -0.08701860904693604
+  },
+  {
+    "id": 61,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Expands federal oversight and increases public access in the area of natural gas and oil (including offshore oil and gas).",
+    "stance": "Liberal",
+    "predicted_raw": -0.08701860904693604
+  },
+  {
+    "id": 62,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Expands federal oversight and increases public access in the area of voting rights.",
+    "stance": "Liberal",
+    "predicted_raw": -0.4576109051704407
+  },
+  {
+    "id": 63,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Expands federal oversight and increases public access in the area of voting rights.",
+    "stance": "Liberal",
+    "predicted_raw": -0.4576109051704407
+  },
+  {
+    "id": 64,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Reduces federal involvement and promotes private sector solutions in employee relations and labor unions.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4122849702835083
+  },
+  {
+    "id": 65,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in low and middle-income housing programs and needs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1361965537071228
+  },
+  {
+    "id": 66,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Expands federal oversight and increases public access in the area of health insurance.",
+    "stance": "Liberal",
+    "predicted_raw": -0.09385013580322266
+  },
+  {
+    "id": 67,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Reduces federal involvement and promotes private sector solutions in health insurance.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06241559982299805
+  },
+  {
+    "id": 68,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in employee relations and labor unions.",
+    "stance": "Centrist",
+    "predicted_raw": -0.4983181357383728
+  },
+  {
+    "id": 69,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Centrist",
+    "predicted_raw": 0.02421104907989502
+  },
+  {
+    "id": 70,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Centrist",
+    "predicted_raw": 0.3404632806777954
+  },
+  {
+    "id": 71,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in low and middle-income housing programs and needs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1361965537071228
+  },
+  {
+    "id": 72,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Expands federal oversight and increases public access in the area of voting rights.",
+    "stance": "Liberal",
+    "predicted_raw": -0.4576109051704407
+  },
+  {
+    "id": 73,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Expands federal oversight and increases public access in the area of air pollution, climate change, and noise pollution.",
+    "stance": "Liberal",
+    "predicted_raw": -0.32033079862594604
+  },
+  {
+    "id": 74,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Expands federal oversight and increases public access in the area of elderly issues and assistance programs.",
+    "stance": "Liberal",
+    "predicted_raw": -0.2257164716720581
+  },
+  {
+    "id": 75,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in higher education.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1422836184501648
+  },
+  {
+    "id": 76,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Reduces federal involvement and promotes private sector solutions in voting rights.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4087066650390625
+  },
+  {
+    "id": 77,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 78,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Reduces federal involvement and promotes private sector solutions in air pollution, climate change, and noise pollution.",
+    "stance": "Conservative",
+    "predicted_raw": -0.40489768981933594
+  },
+  {
+    "id": 79,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Reduces federal involvement and promotes private sector solutions in voting rights.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4087066650390625
+  },
+  {
+    "id": 80,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Centrist",
+    "predicted_raw": 0.02421104907989502
+  },
+  {
+    "id": 81,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Expands federal oversight and increases public access in the area of elderly issues and assistance programs.",
+    "stance": "Liberal",
+    "predicted_raw": -0.2257164716720581
+  },
+  {
+    "id": 82,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Reduces federal involvement and promotes private sector solutions in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Conservative",
+    "predicted_raw": 0.38540327548980713
+  },
+  {
+    "id": 83,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Centrist",
+    "predicted_raw": 0.02421104907989502
+  },
+  {
+    "id": 84,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Expands federal oversight and increases public access in the area of higher education.",
+    "stance": "Liberal",
+    "predicted_raw": -0.17420947551727295
+  },
+  {
+    "id": 85,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Expands federal oversight and increases public access in the area of low and middle-income housing programs and needs.",
+    "stance": "Liberal",
+    "predicted_raw": -0.1754840612411499
+  },
+  {
+    "id": 86,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Expands federal oversight and increases public access in the area of monetary policy, federal reserve board, and the treasury.",
+    "stance": "Liberal",
+    "predicted_raw": 0.12354540824890137
+  },
+  {
+    "id": 87,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in voting rights.",
+    "stance": "Centrist",
+    "predicted_raw": -0.5272403657436371
+  },
+  {
+    "id": 88,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in health insurance.",
+    "stance": "Centrist",
+    "predicted_raw": -0.16449618339538574
+  },
+  {
+    "id": 89,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Expands federal oversight and increases public access in the area of health insurance.",
+    "stance": "Liberal",
+    "predicted_raw": -0.09385013580322266
+  },
+  {
+    "id": 90,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 91,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in elderly issues and assistance programs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.009985089302062988
+  },
+  {
+    "id": 92,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Reduces federal involvement and promotes private sector solutions in natural gas and oil (including offshore oil and gas).",
+    "stance": "Conservative",
+    "predicted_raw": -0.13211888074874878
+  },
+  {
+    "id": 93,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Reduces federal involvement and promotes private sector solutions in air pollution, climate change, and noise pollution.",
+    "stance": "Conservative",
+    "predicted_raw": -0.40489768981933594
+  },
+  {
+    "id": 94,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Expands federal oversight and increases public access in the area of air pollution, climate change, and noise pollution.",
+    "stance": "Liberal",
+    "predicted_raw": -0.32033079862594604
+  },
+  {
+    "id": 95,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 96,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Reduces federal involvement and promotes private sector solutions in low and middle-income housing programs and needs.",
+    "stance": "Conservative",
+    "predicted_raw": -0.1400710940361023
+  },
+  {
+    "id": 97,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Reduces federal involvement and promotes private sector solutions in higher education.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06644392013549805
+  },
+  {
+    "id": 98,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Expands federal oversight and increases public access in the area of air pollution, climate change, and noise pollution.",
+    "stance": "Liberal",
+    "predicted_raw": -0.32033079862594604
+  },
+  {
+    "id": 99,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Expands federal oversight and increases public access in the area of health insurance.",
+    "stance": "Liberal",
+    "predicted_raw": -0.09385013580322266
+  },
+  {
+    "id": 100,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in higher education.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1422836184501648
+  },
+  {
+    "id": 101,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Expands federal oversight and increases public access in the area of voting rights.",
+    "stance": "Liberal",
+    "predicted_raw": -0.4576109051704407
+  },
+  {
+    "id": 102,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Reduces federal involvement and promotes private sector solutions in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Conservative",
+    "predicted_raw": 0.018275976181030273
+  },
+  {
+    "id": 103,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Reduces federal involvement and promotes private sector solutions in health insurance.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06241559982299805
+  },
+  {
+    "id": 104,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 105,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Expands federal oversight and increases public access in the area of pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Liberal",
+    "predicted_raw": 0.053991079330444336
+  },
+  {
+    "id": 106,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Reduces federal involvement and promotes private sector solutions in health insurance.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06241559982299805
+  },
+  {
+    "id": 107,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in employee relations and labor unions.",
+    "stance": "Centrist",
+    "predicted_raw": -0.4983181357383728
+  },
+  {
+    "id": 108,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Expands federal oversight and increases public access in the area of monetary policy, federal reserve board, and the treasury.",
+    "stance": "Liberal",
+    "predicted_raw": 0.12354540824890137
+  },
+  {
+    "id": 109,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Reduces federal involvement and promotes private sector solutions in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Conservative",
+    "predicted_raw": 0.38540327548980713
+  },
+  {
+    "id": 110,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Reduces federal involvement and promotes private sector solutions in higher education.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06644392013549805
+  },
+  {
+    "id": 111,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in elderly issues and assistance programs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.009985089302062988
+  },
+  {
+    "id": 112,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 113,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Reduces federal involvement and promotes private sector solutions in employee relations and labor unions.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4122849702835083
+  },
+  {
+    "id": 114,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Reduces federal involvement and promotes private sector solutions in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Conservative",
+    "predicted_raw": 0.38540327548980713
+  },
+  {
+    "id": 115,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Reduces federal involvement and promotes private sector solutions in air pollution, climate change, and noise pollution.",
+    "stance": "Conservative",
+    "predicted_raw": -0.40489768981933594
+  },
+  {
+    "id": 116,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in air pollution, climate change, and noise pollution.",
+    "stance": "Centrist",
+    "predicted_raw": -0.08829647302627563
+  },
+  {
+    "id": 117,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Reduces federal involvement and promotes private sector solutions in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Conservative",
+    "predicted_raw": 0.38540327548980713
+  },
+  {
+    "id": 118,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Expands federal oversight and increases public access in the area of air pollution, climate change, and noise pollution.",
+    "stance": "Liberal",
+    "predicted_raw": -0.32033079862594604
+  },
+  {
+    "id": 119,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Expands federal oversight and increases public access in the area of pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Liberal",
+    "predicted_raw": 0.053991079330444336
+  },
+  {
+    "id": 120,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Expands federal oversight and increases public access in the area of elderly issues and assistance programs.",
+    "stance": "Liberal",
+    "predicted_raw": -0.2257164716720581
+  },
+  {
+    "id": 121,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Reduces federal involvement and promotes private sector solutions in voting rights.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4087066650390625
+  },
+  {
+    "id": 122,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Expands federal oversight and increases public access in the area of monetary policy, federal reserve board, and the treasury.",
+    "stance": "Liberal",
+    "predicted_raw": 0.12354540824890137
+  },
+  {
+    "id": 123,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in higher education.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1422836184501648
+  },
+  {
+    "id": 124,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Reduces federal involvement and promotes private sector solutions in employee relations and labor unions.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4122849702835083
+  },
+  {
+    "id": 125,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in higher education.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1422836184501648
+  },
+  {
+    "id": 126,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in health insurance.",
+    "stance": "Centrist",
+    "predicted_raw": -0.16449618339538574
+  },
+  {
+    "id": 127,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in voting rights.",
+    "stance": "Centrist",
+    "predicted_raw": -0.5272403657436371
+  },
+  {
+    "id": 128,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Reduces federal involvement and promotes private sector solutions in low and middle-income housing programs and needs.",
+    "stance": "Conservative",
+    "predicted_raw": -0.1400710940361023
+  },
+  {
+    "id": 129,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Reduces federal involvement and promotes private sector solutions in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Conservative",
+    "predicted_raw": 0.38540327548980713
+  },
+  {
+    "id": 130,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Reduces federal involvement and promotes private sector solutions in voting rights.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4087066650390625
+  },
+  {
+    "id": 131,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Centrist",
+    "predicted_raw": 0.02421104907989502
+  },
+  {
+    "id": 132,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Expands federal oversight and increases public access in the area of natural gas and oil (including offshore oil and gas).",
+    "stance": "Liberal",
+    "predicted_raw": -0.08701860904693604
+  },
+  {
+    "id": 133,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Reduces federal involvement and promotes private sector solutions in natural gas and oil (including offshore oil and gas).",
+    "stance": "Conservative",
+    "predicted_raw": -0.13211888074874878
+  },
+  {
+    "id": 134,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Expands federal oversight and increases public access in the area of higher education.",
+    "stance": "Liberal",
+    "predicted_raw": -0.17420947551727295
+  },
+  {
+    "id": 135,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Expands federal oversight and increases public access in the area of health insurance.",
+    "stance": "Liberal",
+    "predicted_raw": -0.09385013580322266
+  },
+  {
+    "id": 136,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Expands federal oversight and increases public access in the area of air pollution, climate change, and noise pollution.",
+    "stance": "Liberal",
+    "predicted_raw": -0.32033079862594604
+  },
+  {
+    "id": 137,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Expands federal oversight and increases public access in the area of employee relations and labor unions.",
+    "stance": "Liberal",
+    "predicted_raw": -0.3193308115005493
+  },
+  {
+    "id": 138,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in voting rights.",
+    "stance": "Centrist",
+    "predicted_raw": -0.5272403657436371
+  },
+  {
+    "id": 139,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Reduces federal involvement and promotes private sector solutions in air pollution, climate change, and noise pollution.",
+    "stance": "Conservative",
+    "predicted_raw": -0.40489768981933594
+  },
+  {
+    "id": 140,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Reduces federal involvement and promotes private sector solutions in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Conservative",
+    "predicted_raw": 0.38540327548980713
+  },
+  {
+    "id": 141,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Reduces federal involvement and promotes private sector solutions in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Conservative",
+    "predicted_raw": 0.38540327548980713
+  },
+  {
+    "id": 142,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in low and middle-income housing programs and needs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1361965537071228
+  },
+  {
+    "id": 143,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Expands federal oversight and increases public access in the area of natural gas and oil (including offshore oil and gas).",
+    "stance": "Liberal",
+    "predicted_raw": -0.08701860904693604
+  },
+  {
+    "id": 144,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in elderly issues and assistance programs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.009985089302062988
+  },
+  {
+    "id": 145,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Expands federal oversight and increases public access in the area of pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Liberal",
+    "predicted_raw": 0.053991079330444336
+  },
+  {
+    "id": 146,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Reduces federal involvement and promotes private sector solutions in air pollution, climate change, and noise pollution.",
+    "stance": "Conservative",
+    "predicted_raw": -0.40489768981933594
+  },
+  {
+    "id": 147,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Expands federal oversight and increases public access in the area of natural gas and oil (including offshore oil and gas).",
+    "stance": "Liberal",
+    "predicted_raw": -0.08701860904693604
+  },
+  {
+    "id": 148,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Reduces federal involvement and promotes private sector solutions in higher education.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06644392013549805
+  },
+  {
+    "id": 149,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Centrist",
+    "predicted_raw": 0.02421104907989502
+  },
+  {
+    "id": 150,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Expands federal oversight and increases public access in the area of low and middle-income housing programs and needs.",
+    "stance": "Liberal",
+    "predicted_raw": -0.1754840612411499
+  },
+  {
+    "id": 151,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Reduces federal involvement and promotes private sector solutions in air pollution, climate change, and noise pollution.",
+    "stance": "Conservative",
+    "predicted_raw": -0.40489768981933594
+  },
+  {
+    "id": 152,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Reduces federal involvement and promotes private sector solutions in employee relations and labor unions.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4122849702835083
+  },
+  {
+    "id": 153,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Reduces federal involvement and promotes private sector solutions in health insurance.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06241559982299805
+  },
+  {
+    "id": 154,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Expands federal oversight and increases public access in the area of elderly issues and assistance programs.",
+    "stance": "Liberal",
+    "predicted_raw": -0.2257164716720581
+  },
+  {
+    "id": 155,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in elderly issues and assistance programs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.009985089302062988
+  },
+  {
+    "id": 156,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Expands federal oversight and increases public access in the area of higher education.",
+    "stance": "Liberal",
+    "predicted_raw": -0.17420947551727295
+  },
+  {
+    "id": 157,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Reduces federal involvement and promotes private sector solutions in low and middle-income housing programs and needs.",
+    "stance": "Conservative",
+    "predicted_raw": -0.1400710940361023
+  },
+  {
+    "id": 158,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in employee relations and labor unions.",
+    "stance": "Centrist",
+    "predicted_raw": -0.4983181357383728
+  },
+  {
+    "id": 159,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in higher education.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1422836184501648
+  },
+  {
+    "id": 160,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Expands federal oversight and increases public access in the area of health insurance.",
+    "stance": "Liberal",
+    "predicted_raw": -0.09385013580322266
+  },
+  {
+    "id": 161,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Expands federal oversight and increases public access in the area of elderly issues and assistance programs.",
+    "stance": "Liberal",
+    "predicted_raw": -0.2257164716720581
+  },
+  {
+    "id": 162,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Reduces federal involvement and promotes private sector solutions in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Conservative",
+    "predicted_raw": 0.018275976181030273
+  },
+  {
+    "id": 163,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Reduces federal involvement and promotes private sector solutions in natural gas and oil (including offshore oil and gas).",
+    "stance": "Conservative",
+    "predicted_raw": -0.13211888074874878
+  },
+  {
+    "id": 164,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Centrist",
+    "predicted_raw": 0.3404632806777954
+  },
+  {
+    "id": 165,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Reduces federal involvement and promotes private sector solutions in air pollution, climate change, and noise pollution.",
+    "stance": "Conservative",
+    "predicted_raw": -0.40489768981933594
+  },
+  {
+    "id": 166,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in health insurance.",
+    "stance": "Centrist",
+    "predicted_raw": -0.16449618339538574
+  },
+  {
+    "id": 167,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 168,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Reduces federal involvement and promotes private sector solutions in health insurance.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06241559982299805
+  },
+  {
+    "id": 169,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in air pollution, climate change, and noise pollution.",
+    "stance": "Centrist",
+    "predicted_raw": -0.08829647302627563
+  },
+  {
+    "id": 170,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Expands federal oversight and increases public access in the area of health insurance.",
+    "stance": "Liberal",
+    "predicted_raw": -0.09385013580322266
+  },
+  {
+    "id": 171,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Reduces federal involvement and promotes private sector solutions in voting rights.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4087066650390625
+  },
+  {
+    "id": 172,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Centrist",
+    "predicted_raw": 0.02421104907989502
+  },
+  {
+    "id": 173,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in health insurance.",
+    "stance": "Centrist",
+    "predicted_raw": -0.16449618339538574
+  },
+  {
+    "id": 174,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Reduces federal involvement and promotes private sector solutions in low and middle-income housing programs and needs.",
+    "stance": "Conservative",
+    "predicted_raw": -0.1400710940361023
+  },
+  {
+    "id": 175,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Expands federal oversight and increases public access in the area of employee relations and labor unions.",
+    "stance": "Liberal",
+    "predicted_raw": -0.3193308115005493
+  },
+  {
+    "id": 176,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Reduces federal involvement and promotes private sector solutions in air pollution, climate change, and noise pollution.",
+    "stance": "Conservative",
+    "predicted_raw": -0.40489768981933594
+  },
+  {
+    "id": 177,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Reduces federal involvement and promotes private sector solutions in health insurance.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06241559982299805
+  },
+  {
+    "id": 178,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in higher education.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1422836184501648
+  },
+  {
+    "id": 179,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Reduces federal involvement and promotes private sector solutions in higher education.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06644392013549805
+  },
+  {
+    "id": 180,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Reduces federal involvement and promotes private sector solutions in low and middle-income housing programs and needs.",
+    "stance": "Conservative",
+    "predicted_raw": -0.1400710940361023
+  },
+  {
+    "id": 181,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in low and middle-income housing programs and needs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1361965537071228
+  },
+  {
+    "id": 182,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Reduces federal involvement and promotes private sector solutions in natural gas and oil (including offshore oil and gas).",
+    "stance": "Conservative",
+    "predicted_raw": -0.13211888074874878
+  },
+  {
+    "id": 183,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Reduces federal involvement and promotes private sector solutions in employee relations and labor unions.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4122849702835083
+  },
+  {
+    "id": 184,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in voting rights.",
+    "stance": "Centrist",
+    "predicted_raw": -0.5272403657436371
+  },
+  {
+    "id": 185,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Reduces federal involvement and promotes private sector solutions in air pollution, climate change, and noise pollution.",
+    "stance": "Conservative",
+    "predicted_raw": -0.40489768981933594
+  },
+  {
+    "id": 186,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Reduces federal involvement and promotes private sector solutions in voting rights.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4087066650390625
+  },
+  {
+    "id": 187,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Expands federal oversight and increases public access in the area of elderly issues and assistance programs.",
+    "stance": "Liberal",
+    "predicted_raw": -0.2257164716720581
+  },
+  {
+    "id": 188,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in air pollution, climate change, and noise pollution.",
+    "stance": "Centrist",
+    "predicted_raw": -0.08829647302627563
+  },
+  {
+    "id": 189,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Expands federal oversight and increases public access in the area of voting rights.",
+    "stance": "Liberal",
+    "predicted_raw": -0.4576109051704407
+  },
+  {
+    "id": 190,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Reduces federal involvement and promotes private sector solutions in voting rights.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4087066650390625
+  },
+  {
+    "id": 191,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Expands federal oversight and increases public access in the area of voting rights.",
+    "stance": "Liberal",
+    "predicted_raw": -0.4576109051704407
+  },
+  {
+    "id": 192,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Expands federal oversight and increases public access in the area of health insurance.",
+    "stance": "Liberal",
+    "predicted_raw": -0.09385013580322266
+  },
+  {
+    "id": 193,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in air pollution, climate change, and noise pollution.",
+    "stance": "Centrist",
+    "predicted_raw": -0.08829647302627563
+  },
+  {
+    "id": 194,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Expands federal oversight and increases public access in the area of higher education.",
+    "stance": "Liberal",
+    "predicted_raw": -0.17420947551727295
+  },
+  {
+    "id": 195,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Centrist",
+    "predicted_raw": 0.02421104907989502
+  },
+  {
+    "id": 196,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in employee relations and labor unions.",
+    "stance": "Centrist",
+    "predicted_raw": -0.4983181357383728
+  },
+  {
+    "id": 197,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Expands federal oversight and increases public access in the area of low and middle-income housing programs and needs.",
+    "stance": "Liberal",
+    "predicted_raw": -0.1754840612411499
+  },
+  {
+    "id": 198,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Reduces federal involvement and promotes private sector solutions in elderly issues and assistance programs.",
+    "stance": "Conservative",
+    "predicted_raw": -0.07234025001525879
+  },
+  {
+    "id": 199,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in higher education.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1422836184501648
+  },
+  {
+    "id": 200,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Expands federal oversight and increases public access in the area of low and middle-income housing programs and needs.",
+    "stance": "Liberal",
+    "predicted_raw": -0.1754840612411499
+  },
+  {
+    "id": 201,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Reduces federal involvement and promotes private sector solutions in employee relations and labor unions.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4122849702835083
+  },
+  {
+    "id": 202,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Reduces federal involvement and promotes private sector solutions in employee relations and labor unions.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4122849702835083
+  },
+  {
+    "id": 203,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Expands federal oversight and increases public access in the area of air pollution, climate change, and noise pollution.",
+    "stance": "Liberal",
+    "predicted_raw": -0.32033079862594604
+  },
+  {
+    "id": 204,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Centrist",
+    "predicted_raw": 0.3404632806777954
+  },
+  {
+    "id": 205,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Reduces federal involvement and promotes private sector solutions in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Conservative",
+    "predicted_raw": 0.38540327548980713
+  },
+  {
+    "id": 206,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in voting rights.",
+    "stance": "Centrist",
+    "predicted_raw": -0.5272403657436371
+  },
+  {
+    "id": 207,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Centrist",
+    "predicted_raw": 0.02421104907989502
+  },
+  {
+    "id": 208,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in low and middle-income housing programs and needs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1361965537071228
+  },
+  {
+    "id": 209,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Reduces federal involvement and promotes private sector solutions in health insurance.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06241559982299805
+  },
+  {
+    "id": 210,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Centrist",
+    "predicted_raw": 0.02421104907989502
+  },
+  {
+    "id": 211,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Reduces federal involvement and promotes private sector solutions in natural gas and oil (including offshore oil and gas).",
+    "stance": "Conservative",
+    "predicted_raw": -0.13211888074874878
+  },
+  {
+    "id": 212,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Reduces federal involvement and promotes private sector solutions in higher education.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06644392013549805
+  },
+  {
+    "id": 213,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Reduces federal involvement and promotes private sector solutions in air pollution, climate change, and noise pollution.",
+    "stance": "Conservative",
+    "predicted_raw": -0.40489768981933594
+  },
+  {
+    "id": 214,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Expands federal oversight and increases public access in the area of voting rights.",
+    "stance": "Liberal",
+    "predicted_raw": -0.4576109051704407
+  },
+  {
+    "id": 215,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in air pollution, climate change, and noise pollution.",
+    "stance": "Centrist",
+    "predicted_raw": -0.08829647302627563
+  },
+  {
+    "id": 216,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in health insurance.",
+    "stance": "Centrist",
+    "predicted_raw": -0.16449618339538574
+  },
+  {
+    "id": 217,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Reduces federal involvement and promotes private sector solutions in employee relations and labor unions.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4122849702835083
+  },
+  {
+    "id": 218,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Expands federal oversight and increases public access in the area of voting rights.",
+    "stance": "Liberal",
+    "predicted_raw": -0.4576109051704407
+  },
+  {
+    "id": 219,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Reduces federal involvement and promotes private sector solutions in voting rights.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4087066650390625
+  },
+  {
+    "id": 220,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Reduces federal involvement and promotes private sector solutions in employee relations and labor unions.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4122849702835083
+  },
+  {
+    "id": 221,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Reduces federal involvement and promotes private sector solutions in higher education.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06644392013549805
+  },
+  {
+    "id": 222,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Expands federal oversight and increases public access in the area of health insurance.",
+    "stance": "Liberal",
+    "predicted_raw": -0.09385013580322266
+  },
+  {
+    "id": 223,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Reduces federal involvement and promotes private sector solutions in natural gas and oil (including offshore oil and gas).",
+    "stance": "Conservative",
+    "predicted_raw": -0.13211888074874878
+  },
+  {
+    "id": 224,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Expands federal oversight and increases public access in the area of low and middle-income housing programs and needs.",
+    "stance": "Liberal",
+    "predicted_raw": -0.1754840612411499
+  },
+  {
+    "id": 225,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Expands federal oversight and increases public access in the area of health insurance.",
+    "stance": "Liberal",
+    "predicted_raw": -0.09385013580322266
+  },
+  {
+    "id": 226,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Expands federal oversight and increases public access in the area of monetary policy, federal reserve board, and the treasury.",
+    "stance": "Liberal",
+    "predicted_raw": 0.12354540824890137
+  },
+  {
+    "id": 227,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Reduces federal involvement and promotes private sector solutions in air pollution, climate change, and noise pollution.",
+    "stance": "Conservative",
+    "predicted_raw": -0.40489768981933594
+  },
+  {
+    "id": 228,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in air pollution, climate change, and noise pollution.",
+    "stance": "Centrist",
+    "predicted_raw": -0.08829647302627563
+  },
+  {
+    "id": 229,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Expands federal oversight and increases public access in the area of natural gas and oil (including offshore oil and gas).",
+    "stance": "Liberal",
+    "predicted_raw": -0.08701860904693604
+  },
+  {
+    "id": 230,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Expands federal oversight and increases public access in the area of health insurance.",
+    "stance": "Liberal",
+    "predicted_raw": -0.09385013580322266
+  },
+  {
+    "id": 231,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in elderly issues and assistance programs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.009985089302062988
+  },
+  {
+    "id": 232,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Reduces federal involvement and promotes private sector solutions in air pollution, climate change, and noise pollution.",
+    "stance": "Conservative",
+    "predicted_raw": -0.40489768981933594
+  },
+  {
+    "id": 233,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in low and middle-income housing programs and needs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1361965537071228
+  },
+  {
+    "id": 234,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Expands federal oversight and increases public access in the area of voting rights.",
+    "stance": "Liberal",
+    "predicted_raw": -0.4576109051704407
+  },
+  {
+    "id": 235,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in low and middle-income housing programs and needs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1361965537071228
+  },
+  {
+    "id": 236,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Expands federal oversight and increases public access in the area of low and middle-income housing programs and needs.",
+    "stance": "Liberal",
+    "predicted_raw": -0.1754840612411499
+  },
+  {
+    "id": 237,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Expands federal oversight and increases public access in the area of low and middle-income housing programs and needs.",
+    "stance": "Liberal",
+    "predicted_raw": -0.1754840612411499
+  },
+  {
+    "id": 238,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Centrist",
+    "predicted_raw": 0.3404632806777954
+  },
+  {
+    "id": 239,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in elderly issues and assistance programs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.009985089302062988
+  },
+  {
+    "id": 240,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in voting rights.",
+    "stance": "Centrist",
+    "predicted_raw": -0.5272403657436371
+  },
+  {
+    "id": 241,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in health insurance.",
+    "stance": "Centrist",
+    "predicted_raw": -0.16449618339538574
+  },
+  {
+    "id": 242,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Expands federal oversight and increases public access in the area of low and middle-income housing programs and needs.",
+    "stance": "Liberal",
+    "predicted_raw": -0.1754840612411499
+  },
+  {
+    "id": 243,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Reduces federal involvement and promotes private sector solutions in natural gas and oil (including offshore oil and gas).",
+    "stance": "Conservative",
+    "predicted_raw": -0.13211888074874878
+  },
+  {
+    "id": 244,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Expands federal oversight and increases public access in the area of health insurance.",
+    "stance": "Liberal",
+    "predicted_raw": -0.09385013580322266
+  },
+  {
+    "id": 245,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 246,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Reduces federal involvement and promotes private sector solutions in higher education.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06644392013549805
+  },
+  {
+    "id": 247,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Expands federal oversight and increases public access in the area of low and middle-income housing programs and needs.",
+    "stance": "Liberal",
+    "predicted_raw": -0.1754840612411499
+  },
+  {
+    "id": 248,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Reduces federal involvement and promotes private sector solutions in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Conservative",
+    "predicted_raw": 0.38540327548980713
+  },
+  {
+    "id": 249,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in health insurance.",
+    "stance": "Centrist",
+    "predicted_raw": -0.16449618339538574
+  },
+  {
+    "id": 250,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Reduces federal involvement and promotes private sector solutions in air pollution, climate change, and noise pollution.",
+    "stance": "Conservative",
+    "predicted_raw": -0.40489768981933594
+  },
+  {
+    "id": 251,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Expands federal oversight and increases public access in the area of monetary policy, federal reserve board, and the treasury.",
+    "stance": "Liberal",
+    "predicted_raw": 0.12354540824890137
+  },
+  {
+    "id": 252,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Expands federal oversight and increases public access in the area of air pollution, climate change, and noise pollution.",
+    "stance": "Liberal",
+    "predicted_raw": -0.32033079862594604
+  },
+  {
+    "id": 253,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in voting rights.",
+    "stance": "Centrist",
+    "predicted_raw": -0.5272403657436371
+  },
+  {
+    "id": 254,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 255,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Reduces federal involvement and promotes private sector solutions in low and middle-income housing programs and needs.",
+    "stance": "Conservative",
+    "predicted_raw": -0.1400710940361023
+  },
+  {
+    "id": 256,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in elderly issues and assistance programs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.009985089302062988
+  },
+  {
+    "id": 257,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Reduces federal involvement and promotes private sector solutions in voting rights.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4087066650390625
+  },
+  {
+    "id": 258,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Reduces federal involvement and promotes private sector solutions in higher education.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06644392013549805
+  },
+  {
+    "id": 259,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in air pollution, climate change, and noise pollution.",
+    "stance": "Centrist",
+    "predicted_raw": -0.08829647302627563
+  },
+  {
+    "id": 260,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Reduces federal involvement and promotes private sector solutions in higher education.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06644392013549805
+  },
+  {
+    "id": 261,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in air pollution, climate change, and noise pollution.",
+    "stance": "Centrist",
+    "predicted_raw": -0.08829647302627563
+  },
+  {
+    "id": 262,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Reduces federal involvement and promotes private sector solutions in low and middle-income housing programs and needs.",
+    "stance": "Conservative",
+    "predicted_raw": -0.1400710940361023
+  },
+  {
+    "id": 263,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in health insurance.",
+    "stance": "Centrist",
+    "predicted_raw": -0.16449618339538574
+  },
+  {
+    "id": 264,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Reduces federal involvement and promotes private sector solutions in voting rights.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4087066650390625
+  },
+  {
+    "id": 265,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Centrist",
+    "predicted_raw": 0.02421104907989502
+  },
+  {
+    "id": 266,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Reduces federal involvement and promotes private sector solutions in low and middle-income housing programs and needs.",
+    "stance": "Conservative",
+    "predicted_raw": -0.1400710940361023
+  },
+  {
+    "id": 267,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in employee relations and labor unions.",
+    "stance": "Centrist",
+    "predicted_raw": -0.4983181357383728
+  },
+  {
+    "id": 268,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in voting rights.",
+    "stance": "Centrist",
+    "predicted_raw": -0.5272403657436371
+  },
+  {
+    "id": 269,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Centrist",
+    "predicted_raw": 0.3404632806777954
+  },
+  {
+    "id": 270,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Reduces federal involvement and promotes private sector solutions in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Conservative",
+    "predicted_raw": 0.018275976181030273
+  },
+  {
+    "id": 271,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in air pollution, climate change, and noise pollution.",
+    "stance": "Centrist",
+    "predicted_raw": -0.08829647302627563
+  },
+  {
+    "id": 272,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in health insurance.",
+    "stance": "Centrist",
+    "predicted_raw": -0.16449618339538574
+  },
+  {
+    "id": 273,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Reduces federal involvement and promotes private sector solutions in air pollution, climate change, and noise pollution.",
+    "stance": "Conservative",
+    "predicted_raw": -0.40489768981933594
+  },
+  {
+    "id": 274,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Reduces federal involvement and promotes private sector solutions in employee relations and labor unions.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4122849702835083
+  },
+  {
+    "id": 275,
+    "topic_code": "206",
+    "topic_desc": "Voting Rights",
+    "summary": "Reduces federal involvement and promotes private sector solutions in voting rights.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4087066650390625
+  },
+  {
+    "id": 276,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Reduces federal involvement and promotes private sector solutions in health insurance.",
+    "stance": "Conservative",
+    "predicted_raw": -0.06241559982299805
+  },
+  {
+    "id": 277,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 278,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Expands federal oversight and increases public access in the area of health insurance.",
+    "stance": "Liberal",
+    "predicted_raw": -0.09385013580322266
+  },
+  {
+    "id": 279,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Expands federal oversight and increases public access in the area of low and middle-income housing programs and needs.",
+    "stance": "Liberal",
+    "predicted_raw": -0.1754840612411499
+  },
+  {
+    "id": 280,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Expands federal oversight and increases public access in the area of air pollution, climate change, and noise pollution.",
+    "stance": "Liberal",
+    "predicted_raw": -0.32033079862594604
+  },
+  {
+    "id": 281,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in low and middle-income housing programs and needs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1361965537071228
+  },
+  {
+    "id": 282,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Expands federal oversight and increases public access in the area of employee relations and labor unions.",
+    "stance": "Liberal",
+    "predicted_raw": -0.3193308115005493
+  },
+  {
+    "id": 283,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 284,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Centrist",
+    "predicted_raw": 0.3404632806777954
+  },
+  {
+    "id": 285,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Expands federal oversight and increases public access in the area of monetary policy, federal reserve board, and the treasury.",
+    "stance": "Liberal",
+    "predicted_raw": 0.12354540824890137
+  },
+  {
+    "id": 286,
+    "topic_code": "710",
+    "topic_desc": "Pollution and Conservation in Coastal & Other Navigable Waterways",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in pollution and conservation in coastal & other navigable waterways.",
+    "stance": "Centrist",
+    "predicted_raw": 0.02421104907989502
+  },
+  {
+    "id": 287,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Reduces federal involvement and promotes private sector solutions in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Conservative",
+    "predicted_raw": 0.38540327548980713
+  },
+  {
+    "id": 288,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 289,
+    "topic_code": "104",
+    "topic_desc": "Monetary Policy, Federal Reserve Board, and the Treasury",
+    "summary": "Reduces federal involvement and promotes private sector solutions in monetary policy, federal reserve board, and the treasury.",
+    "stance": "Conservative",
+    "predicted_raw": 0.38540327548980713
+  },
+  {
+    "id": 290,
+    "topic_code": "1303",
+    "topic_desc": "Elderly Issues and Assistance Programs",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in elderly issues and assistance programs.",
+    "stance": "Centrist",
+    "predicted_raw": -0.009985089302062988
+  },
+  {
+    "id": 291,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 292,
+    "topic_code": "705",
+    "topic_desc": "Air pollution, Climate Change, and Noise Pollution",
+    "summary": "Expands federal oversight and increases public access in the area of air pollution, climate change, and noise pollution.",
+    "stance": "Liberal",
+    "predicted_raw": -0.32033079862594604
+  },
+  {
+    "id": 293,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in higher education.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1422836184501648
+  },
+  {
+    "id": 294,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Expands federal oversight and increases public access in the area of health insurance.",
+    "stance": "Liberal",
+    "predicted_raw": -0.09385013580322266
+  },
+  {
+    "id": 295,
+    "topic_code": "1406",
+    "topic_desc": "Low and Middle-Income Housing Programs and Needs",
+    "summary": "Reduces federal involvement and promotes private sector solutions in low and middle-income housing programs and needs.",
+    "stance": "Conservative",
+    "predicted_raw": -0.1400710940361023
+  },
+  {
+    "id": 296,
+    "topic_code": "601",
+    "topic_desc": "Higher Education",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in higher education.",
+    "stance": "Centrist",
+    "predicted_raw": -0.1422836184501648
+  },
+  {
+    "id": 297,
+    "topic_code": "302",
+    "topic_desc": "Health Insurance",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in health insurance.",
+    "stance": "Centrist",
+    "predicted_raw": -0.16449618339538574
+  },
+  {
+    "id": 298,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 299,
+    "topic_code": "803",
+    "topic_desc": "Natural Gas and Oil (Including Offshore Oil and Gas)",
+    "summary": "Proposes moderate reforms to improve efficiency and accountability in natural gas and oil (including offshore oil and gas).",
+    "stance": "Centrist",
+    "predicted_raw": -0.09528166055679321
+  },
+  {
+    "id": 300,
+    "topic_code": "504",
+    "topic_desc": "Employee Relations and Labor Unions",
+    "summary": "Reduces federal involvement and promotes private sector solutions in employee relations and labor unions.",
+    "stance": "Conservative",
+    "predicted_raw": -0.4122849702835083
+  },
+  {
+    "id": 301,
+    "summary": "This bill proposes comprehensive healthcare reform to establish a single-payer system, ensuring universal coverage for all U.S. citizens. It aims to reduce administrative costs and negotiate drug prices to make healthcare affordable. The legislation expands access to mental health services and preventive care, prioritizing underserved communities. Funding will come from progressive taxation, reallocating existing healthcare subsidies. Opponents argue it may strain federal budgets and limit private sector innovation. Supporters emphasize its potential to eliminate disparities in healthcare access.",
+    "topic_code": "301",
+    "stance": "Liberal",
+    "predicted_raw": -0.32281494140625
+  },
+  {
+    "id": 302,
+    "summary": "This legislation seeks to reduce the national debt by implementing a balanced budget amendment. It mandates that federal spending not exceed revenues, except in cases of national emergencies. The bill encourages fiscal responsibility through targeted cuts to non-essential programs while preserving defense and Social Security. Critics warn it could restrict government flexibility during economic downturns. Proponents argue it ensures long-term economic stability and reduces reliance on borrowing.",
+    "topic_code": "105",
+    "stance": "Conservative",
+    "predicted_raw": 0.23009026050567627
+  },
+  {
+    "id": 303,
+    "summary": "This bill proposes a bipartisan approach to infrastructure development, allocating $500 billion for roads, bridges, and public transit. It emphasizes public-private partnerships to maximize efficiency and job creation. The legislation includes provisions for rural and urban projects, aiming to balance regional needs. Environmental reviews will be streamlined to expedite construction without compromising safety. Both parties support the economic benefits, though disagreements remain on funding mechanisms.",
+    "topic_code": "1010",
+    "stance": "Centrist",
+    "predicted_raw": -0.38791072368621826
+  },
+  {
+    "id": 304,
+    "summary": "This legislation strengthens voting rights by mandating automatic voter registration and expanding early voting access. It seeks to eliminate barriers for minority and low-income voters, ensuring equitable participation in elections. The bill also funds cybersecurity upgrades for voting systems to prevent interference. Critics argue it risks voter fraud and overburdens state budgets. Supporters highlight its role in enhancing democratic inclusivity.",
+    "topic_code": "206",
+    "stance": "Liberal",
+    "predicted_raw": -0.4877753257751465
+  },
+  {
+    "id": 305,
+    "summary": "This bill promotes school choice by expanding tax credits for private school tuition and homeschooling expenses. It aims to empower parents to select educational options best suited for their children. The legislation reduces federal oversight of local schools, emphasizing state-level control. Opponents claim it undermines public education funding. Proponents argue it fosters competition and improves educational outcomes.",
+    "topic_code": "602",
+    "stance": "Conservative",
+    "predicted_raw": 0.07426941394805908
+  },
+  {
+    "id": 306,
+    "summary": "This legislation establishes a carbon pricing system to combat climate change while incentivizing renewable energy adoption. It imposes fees on high-emission industries, with revenues redistributed to low-income households. The bill balances economic growth with environmental goals through targeted tax credits for green technology. Critics warn of potential job losses in traditional energy sectors. Supporters emphasize its necessity for sustainable development.",
+    "topic_code": "705",
+    "stance": "Liberal",
+    "predicted_raw": -0.2941184639930725
+  },
+  {
+    "id": 307,
+    "summary": "This bill reforms immigration policy by streamlining legal pathways for skilled workers while enhancing border security. It allocates funding for technology-driven border surveillance and increases visas for high-demand industries. The legislation seeks bipartisan support by addressing economic needs and humanitarian concerns. It avoids amnesty provisions to maintain strict enforcement. Some argue it fails to address undocumented immigrants comprehensively.",
+    "topic_code": "900",
+    "stance": "Centrist",
+    "predicted_raw": 0.2830336093902588
+  },
+  {
+    "id": 308,
+    "summary": "This legislation reduces corporate tax rates to stimulate business investment and job creation. It eliminates loopholes to ensure fairness while maintaining revenue neutrality. The bill argues that lower taxes will boost U.S. competitiveness globally. Critics contend it disproportionately benefits large corporations. Supporters highlight its potential to drive economic growth and reduce outsourcing.",
+    "topic_code": "107",
+    "stance": "Conservative",
+    "predicted_raw": -0.37190961837768555
+  },
+  {
+    "id": 309,
+    "summary": "This bill expands affordable housing programs by increasing funding for low-income housing tax credits. It targets urban and rural communities to address homelessness and housing shortages. The legislation includes incentives for energy-efficient construction to reduce environmental impact. Opponents argue it may inflate local housing markets. Supporters stress its role in promoting equitable access to safe housing.",
+    "topic_code": "1406",
+    "stance": "Liberal",
+    "predicted_raw": -0.4318239688873291
+  },
+  {
+    "id": 310,
+    "summary": "This legislation enhances cybersecurity by establishing national standards for critical infrastructure protection. It promotes collaboration between government and private sectors to counter cyber threats. The bill funds training programs to address the shortage of cybersecurity professionals. It avoids heavy-handed regulations to encourage innovation. Both sides support the need for robust defenses, though funding disputes persist.",
+    "topic_code": "1709",
+    "stance": "Centrist",
+    "predicted_raw": -0.1125442385673523
+  },
+  {
+    "id": 311,
+    "summary": "This bill strengthens Second Amendment protections by limiting federal restrictions on firearm ownership. It streamlines background check processes while maintaining public safety standards. The legislation preempts state-level gun control laws to ensure uniformity. Critics argue it weakens efforts to curb gun violence. Proponents emphasize individual rights and self-defense.",
+    "topic_code": "1209",
+    "stance": "Conservative",
+    "predicted_raw": -0.2929239273071289
+  },
+  {
+    "id": 312,
+    "summary": "This legislation increases funding for public health initiatives to combat opioid addiction. It expands access to treatment programs and supports community-based prevention efforts. The bill prioritizes rural areas disproportionately affected by the crisis. Critics question its long-term funding sustainability. Supporters argue it addresses a critical public health emergency.",
+    "topic_code": "342",
+    "stance": "Liberal",
+    "predicted_raw": -0.0844915509223938
+  },
+  {
+    "id": 313,
+    "summary": "This bill reforms the criminal justice system by reducing mandatory minimum sentences for non-violent offenses. It promotes rehabilitation programs to reduce recidivism and supports reentry initiatives for former inmates. The legislation seeks bipartisan support by balancing accountability with compassion. Critics argue it may weaken deterrence. Supporters highlight its potential to address systemic inequities.",
+    "topic_code": "1200",
+    "stance": "Centrist",
+    "predicted_raw": 0.10989093780517578
+  },
+  {
+    "id": 314,
+    "summary": "This legislation deregulates energy markets to encourage competition and lower consumer prices. It reduces subsidies for renewable energy, arguing they distort market dynamics. The bill prioritizes fossil fuel production to ensure energy independence. Critics warn of environmental consequences. Proponents emphasize economic benefits and energy reliability.",
+    "topic_code": "803",
+    "stance": "Conservative",
+    "predicted_raw": -0.055832624435424805
+  },
+  {
+    "id": 315,
+    "summary": "This bill expands access to early childhood education through federal grants to states. It focuses on low-income families to ensure equitable opportunities for young learners. The legislation includes teacher training to improve program quality. Opponents argue it increases federal overreach. Supporters stress its role in closing educational achievement gaps.",
+    "topic_code": "602",
+    "stance": "Liberal",
+    "predicted_raw": -0.2764832377433777
+  },
+  {
+    "id": 316,
+    "summary": "This legislation promotes trade agreements to enhance U.S. exports while protecting domestic industries. It streamlines export regulations and provides incentives for small businesses to enter global markets. The bill seeks bipartisan support by balancing free trade with worker protections. Critics argue it may harm certain sectors. Supporters highlight its economic growth potential.",
+    "topic_code": "1803",
+    "stance": "Centrist",
+    "predicted_raw": 0.13481509685516357
+  },
+  {
+    "id": 317,
+    "summary": "This bill strengthens national defense by increasing funding for military modernization. It prioritizes advanced weaponry and cybersecurity to counter emerging threats. The legislation maintains support for veteran services to ensure long-term care. Critics argue it diverts funds from domestic priorities. Supporters emphasize its necessity for national security.",
+    "topic_code": "1610",
+    "stance": "Conservative",
+    "predicted_raw": -0.24469059705734253
+  },
+  {
+    "id": 318,
+    "summary": "This legislation establishes protections for workers\u2019 rights to unionize and bargain collectively. It increases penalties for employers who violate labor laws and strengthens OSHA regulations. The bill aims to improve workplace safety and wages for low-income workers. Critics warn it may burden small businesses. Supporters argue it promotes economic fairness.",
+    "topic_code": "504",
+    "stance": "Liberal",
+    "predicted_raw": -0.21244996786117554
+  },
+  {
+    "id": 319,
+    "summary": "This bill reforms the tax code by simplifying deductions and lowering rates for middle-class families. It maintains progressive elements while reducing complexity for small businesses. The legislation seeks bipartisan approval by balancing revenue needs with economic growth. Critics argue it lacks ambition for systemic change. Supporters highlight its practicality and fairness.",
+    "topic_code": "107",
+    "stance": "Centrist",
+    "predicted_raw": 0.1791536808013916
+  },
+  {
+    "id": 320,
+    "summary": "This legislation expands conservation efforts by increasing funding for national parks and wildlife refuges. It strengthens protections for endangered species and promotes sustainable land use. The bill includes grants for state-level conservation programs. Opponents argue it restricts economic development. Supporters emphasize its environmental and recreational benefits.",
+    "topic_code": "709",
+    "stance": "Liberal",
+    "predicted_raw": -0.08559298515319824
+  },
+  {
+    "id": 321,
+    "summary": "This legislation establishes a comprehensive federal jobs guarantee program to address unemployment and underemployment in economically distressed communities. The bill would create government-funded employment opportunities in infrastructure, environmental restoration, and community services, with wages set at $18 per hour minimum. Federal agencies would coordinate with state and local governments to identify priority projects and ensure equitable distribution of opportunities across rural and urban areas.",
+    "topic_code": "103",
+    "stance": "Liberal",
+    "predicted_raw": -0.278378963470459
+  },
+  {
+    "id": 322,
+    "summary": "The proposed legislation aims to reduce regulatory burden on small businesses by streamlining federal compliance requirements and establishing a one-stop digital portal for business licensing. This bill would eliminate redundant reporting obligations and provide tax credits for businesses with fewer than 50 employees that create new jobs. The measure is designed to stimulate entrepreneurship and economic growth through market-based solutions.",
+    "topic_code": "1521",
+    "stance": "Conservative",
+    "predicted_raw": 0.31753623485565186
+  },
+  {
+    "id": 323,
+    "summary": "This bipartisan bill creates a national infrastructure investment fund combining public and private resources to modernize America's transportation networks. The legislation establishes performance metrics for project selection and includes provisions for both urban transit improvements and rural road maintenance. Federal matching funds would incentivize state and local investment while ensuring fiscal responsibility through competitive grant processes.",
+    "topic_code": "1010",
+    "stance": "Centrist",
+    "predicted_raw": -0.3761851191520691
+  },
+  {
+    "id": 324,
+    "summary": "The Climate Justice and Clean Energy Transition Act establishes ambitious greenhouse gas reduction targets of 50% by 2030 and net-zero emissions by 2050. This comprehensive legislation invests $2 trillion in renewable energy infrastructure, electric vehicle charging networks, and green job training programs in disadvantaged communities. The bill includes environmental justice provisions ensuring that historically overburdened communities receive priority funding for pollution cleanup and economic transition assistance.",
+    "topic_code": "705",
+    "stance": "Liberal",
+    "predicted_raw": -0.2943042516708374
+  },
+  {
+    "id": 325,
+    "summary": "This legislation promotes American energy independence through expanded domestic oil and gas production on federal lands and waters. The bill streamlines permitting processes for energy exploration while maintaining essential safety and environmental standards. Revenue generated from increased lease sales would fund infrastructure improvements and reduce the federal deficit, strengthening both energy security and fiscal responsibility.",
+    "topic_code": "803",
+    "stance": "Conservative",
+    "predicted_raw": 0.04891824722290039
+  },
+  {
+    "id": 326,
+    "summary": "The Healthcare Access and Affordability Act expands Medicaid eligibility to include all adults earning up to 200% of the federal poverty level. This legislation provides federal funding to cover the full cost of expansion for the first three years, gradually transitioning to the standard federal matching rate. The bill aims to reduce the uninsured rate and improve health outcomes while providing states with implementation flexibility.",
+    "topic_code": "302",
+    "stance": "Liberal",
+    "predicted_raw": -0.23879379034042358
+  },
+  {
+    "id": 327,
+    "summary": "This bill establishes market-based healthcare reforms including health savings account expansion and interstate insurance purchases. The legislation removes regulatory barriers that limit consumer choice and competition among insurance providers. By allowing individuals to purchase coverage across state lines and expanding tax-advantaged savings options, the measure aims to reduce healthcare costs through increased market competition.",
+    "topic_code": "302",
+    "stance": "Conservative",
+    "predicted_raw": -0.06923311948776245
+  },
+  {
+    "id": 328,
+    "summary": "The bipartisan Prescription Drug Pricing Reform Act allows Medicare to negotiate prices for high-cost medications while preserving innovation incentives for pharmaceutical companies. The legislation caps annual out-of-pocket costs for Medicare beneficiaries at $2,000 and requires drug companies to provide rebates when prices increase faster than inflation. These targeted reforms balance affordability concerns with the need to maintain research and development investments.",
+    "topic_code": "335",
+    "stance": "Centrist",
+    "predicted_raw": -0.189538836479187
+  },
+  {
+    "id": 329,
+    "summary": "This comprehensive immigration reform bill provides a pathway to citizenship for undocumented immigrants currently residing in the United States. The legislation includes background checks, payment of back taxes, and English language requirements while strengthening border security through technology improvements and additional personnel. The bill addresses both humanitarian concerns and economic benefits of bringing workers out of the shadows.",
+    "topic_code": "900",
+    "stance": "Liberal",
+    "predicted_raw": 0.08039438724517822
+  },
+  {
+    "id": 330,
+    "summary": "The Secure Borders Act prioritizes immigration enforcement through expanded wall construction and increased Border Patrol staffing. This legislation mandates E-Verify use for all employers and increases penalties for businesses that hire undocumented workers. The bill emphasizes law and order approaches to immigration while streamlining legal immigration processes for skilled workers and individuals with family ties to U.S. citizens.",
+    "topic_code": "900",
+    "stance": "Conservative",
+    "predicted_raw": 0.18203520774841309
+  },
+  {
+    "id": 331,
+    "summary": "This legislation establishes universal pre-K education for all four-year-olds, funded through federal grants to states and local school districts. The bill includes quality standards for early childhood programs and provides training support for educators. Research demonstrates that early childhood education investments yield significant long-term benefits for child development and help reduce educational inequality from an early age.",
+    "topic_code": "602",
+    "stance": "Liberal",
+    "predicted_raw": -0.1792249083518982
+  },
+  {
+    "id": 332,
+    "summary": "The School Choice Expansion Act provides tax credits for families to use toward private school tuition or homeschooling expenses. This legislation empowers parents to select educational options that best serve their children's needs while maintaining funding for public schools. The bill promotes educational competition and innovation through market-based reforms that put decision-making power in the hands of families.",
+    "topic_code": "602",
+    "stance": "Conservative",
+    "predicted_raw": 0.10292208194732666
+  },
+  {
+    "id": 333,
+    "summary": "This bipartisan education bill increases federal funding for both traditional public schools and charter schools while establishing common accountability standards. The legislation provides flexibility for states to implement innovative teaching methods and technology integration. By supporting diverse educational models and emphasizing student outcomes, the bill aims to improve educational quality across all school types.",
+    "topic_code": "602",
+    "stance": "Centrist",
+    "predicted_raw": 0.053046226501464844
+  },
+  {
+    "id": 334,
+    "summary": "The Worker Protection and Union Rights Act strengthens collective bargaining rights and makes it easier for employees to form unions. This legislation overturns right-to-work laws and requires employers to recognize unions when a majority of workers sign authorization cards. The bill aims to increase worker wages and benefits by restoring the balance of power between labor and management in workplace negotiations.",
+    "topic_code": "504",
+    "stance": "Liberal",
+    "predicted_raw": -0.41303831338882446
+  },
+  {
+    "id": 335,
+    "summary": "This legislation protects worker freedom by ensuring that no employee can be compelled to join a union or pay union dues as a condition of employment. The Right to Work Enhancement Act extends existing protections to federal employees and contractors while maintaining worker safety standards. The bill promotes individual liberty and economic freedom in workplace decisions.",
+    "topic_code": "504",
+    "stance": "Conservative",
+    "predicted_raw": -0.5540256500244141
+  },
+  {
+    "id": 336,
+    "summary": "The Voting Rights Restoration Act reinstates and updates key provisions of the Voting Rights Act, requiring federal preclearance for voting changes in jurisdictions with histories of discrimination. This legislation expands early voting opportunities, automatic voter registration, and prohibits voter roll purges within 90 days of federal elections. The bill aims to protect voting access while maintaining election integrity through modernized oversight mechanisms.",
+    "topic_code": "206",
+    "stance": "Liberal",
+    "predicted_raw": -0.39617544412612915
+  },
+  {
+    "id": 337,
+    "summary": "The Election Integrity and Voter ID Act requires photo identification for all federal elections and establishes uniform standards for voter registration verification. This legislation mandates regular maintenance of voter rolls and creates penalties for election fraud. The bill ensures that only eligible citizens vote while providing free identification cards to those who need them, balancing access with security.",
+    "topic_code": "206",
+    "stance": "Conservative",
+    "predicted_raw": -0.36220377683639526
+  },
+  {
+    "id": 338,
+    "summary": "This bipartisan cybersecurity bill establishes information sharing protocols between government agencies and private sector entities to combat cyber threats. The legislation creates incentives for businesses to report security breaches while protecting proprietary information from public disclosure. By fostering cooperation between public and private sectors, the bill strengthens national cybersecurity without imposing burdensome regulations on businesses.",
+    "topic_code": "1709",
+    "stance": "Centrist",
+    "predicted_raw": 0.3375892639160156
+  },
+  {
+    "id": 339,
+    "summary": "The Green New Deal Implementation Act commits the United States to achieving carbon neutrality by 2030 through massive federal investment in renewable energy and green infrastructure. This comprehensive legislation guarantees jobs for workers transitioning from fossil fuel industries and prioritizes environmental justice communities in cleanup and development efforts. The bill treats climate change as an urgent crisis requiring unprecedented government action and investment.",
+    "topic_code": "705",
+    "stance": "Liberal",
+    "predicted_raw": -0.3972517251968384
+  },
+  {
+    "id": 340,
+    "summary": "This legislation promotes nuclear energy development as a clean, reliable baseload power source through streamlined licensing procedures and federal loan guarantees. The Nuclear Renaissance Act supports both large-scale reactors and small modular reactor technologies while maintaining rigorous safety standards. The bill positions nuclear power as essential for meeting emissions reduction goals while ensuring energy security and grid reliability.",
+    "topic_code": "801",
+    "stance": "Conservative",
+    "predicted_raw": 0.04484903812408447
+  },
+  {
+    "id": 341,
+    "summary": "The Affordable Housing Trust Fund Act allocates $50 billion annually to construct and preserve affordable rental housing in high-cost metropolitan areas. This legislation provides grants to local housing authorities and non-profit developers while requiring that 75% of units serve extremely low-income families. The bill addresses the affordable housing crisis through direct federal investment and partnerships with community-based organizations.",
+    "topic_code": "1406",
+    "stance": "Liberal",
+    "predicted_raw": -0.3157646656036377
+  },
+  {
+    "id": 342,
+    "summary": "This housing reform bill reduces regulatory barriers to new construction by incentivizing local zoning changes and streamlining permitting processes. The Housing Supply Enhancement Act provides federal grants to municipalities that eliminate single-family zoning restrictions and expedite development approvals. By increasing housing supply through market mechanisms, the legislation aims to improve affordability without direct government spending.",
+    "topic_code": "1401",
+    "stance": "Conservative",
+    "predicted_raw": -0.26149439811706543
+  },
+  {
+    "id": 343,
+    "summary": "The Criminal Justice Reform Act reduces mandatory minimum sentences for non-violent drug offenses and expands alternatives to incarceration. This legislation invests in rehabilitation programs, drug courts, and reentry services to reduce recidivism rates. The bill addresses racial disparities in sentencing while maintaining public safety through evidence-based approaches that emphasize treatment over punishment for substance abuse disorders.",
+    "topic_code": "1203",
+    "stance": "Liberal",
+    "predicted_raw": 0.1158285140991211
+  },
+  {
+    "id": 344,
+    "summary": "This law and order legislation increases penalties for violent crimes and provides additional funding for police departments and prosecutorial offices. The Public Safety Enhancement Act expands federal prosecution of gang-related activities and drug trafficking while supporting community policing initiatives. The bill prioritizes victim rights and public safety through stronger enforcement and deterrent measures.",
+    "topic_code": "1211",
+    "stance": "Conservative",
+    "predicted_raw": -0.28928595781326294
+  },
+  {
+    "id": 345,
+    "summary": "The Social Security Enhancement Act gradually raises the payroll tax cap to ensure long-term solvency while expanding benefits for low-income retirees. This legislation increases minimum Social Security benefits and provides cost-of-living adjustments that better reflect seniors' actual expenses. The bill strengthens the social safety net by asking higher earners to contribute more while improving retirement security for all Americans.",
+    "topic_code": "1303",
+    "stance": "Liberal",
+    "predicted_raw": 0.05381453037261963
+  },
+  {
+    "id": 346,
+    "summary": "This legislation creates personal retirement accounts allowing younger workers to invest a portion of their Social Security contributions in private markets. The Social Security Modernization Act maintains current benefits for workers over 55 while providing ownership and higher returns for future retirees. The bill promotes individual responsibility and wealth building through market-based retirement savings.",
+    "topic_code": "1303",
+    "stance": "Conservative",
+    "predicted_raw": -0.19847548007965088
+  },
+  {
+    "id": 347,
+    "summary": "The bipartisan Infrastructure Investment Act authorizes $1.2 trillion over ten years for roads, bridges, broadband, and water systems through a combination of federal spending and private partnerships. This legislation prioritizes projects with the greatest economic impact while ensuring geographic distribution between urban and rural areas. The bill addresses critical infrastructure needs through fiscally responsible approaches that leverage both public investment and private sector expertise.",
+    "topic_code": "1010",
+    "stance": "Centrist",
+    "predicted_raw": -0.5871182382106781
+  },
+  {
+    "id": 348,
+    "summary": "The Medicare for All Act establishes a single-payer healthcare system that guarantees coverage for all Americans regardless of employment status or pre-existing conditions. This comprehensive legislation eliminates insurance premiums, deductibles, and copayments while covering medical, dental, vision, and mental health services. The bill is funded through progressive taxation and would significantly reduce overall healthcare spending by eliminating insurance company profits and administrative waste.",
+    "topic_code": "301",
+    "stance": "Liberal",
+    "predicted_raw": -0.32110393047332764
+  },
+  {
+    "id": 349,
+    "summary": "This legislation repeals and replaces the Affordable Care Act with market-based healthcare reforms that increase consumer choice and reduce government involvement. The Healthcare Freedom Act eliminates individual mandates, expands health savings accounts, and allows insurance sales across state lines. The bill reduces federal healthcare spending while empowering individuals to make their own healthcare decisions through increased competition and price transparency.",
+    "topic_code": "301",
+    "stance": "Conservative",
+    "predicted_raw": -0.033671796321868896
+  },
+  {
+    "id": 350,
+    "summary": "The Renewable Energy Investment Tax Credit Extension provides long-term certainty for solar and wind development while gradually reducing subsidy rates as technologies mature. This legislation supports both utility-scale projects and residential installations through a predictable phase-down schedule over ten years. The bill balances environmental goals with fiscal responsibility by providing temporary support for emerging clean energy markets.",
+    "topic_code": "806",
+    "stance": "Centrist",
+    "predicted_raw": -0.23027455806732178
+  },
+  {
+    "id": 351,
+    "summary": "The Equal Rights Amendment Implementation Act ensures that discrimination based on sex, gender identity, or sexual orientation is explicitly prohibited under federal law. This legislation provides enforcement mechanisms for workplace discrimination cases and mandates equal pay audits for federal contractors. The bill advances gender equality and LGBTQ+ rights through comprehensive civil rights protections.",
+    "topic_code": "202",
+    "stance": "Liberal",
+    "predicted_raw": -0.541101485490799
+  },
+  {
+    "id": 352,
+    "summary": "This religious freedom protection bill ensures that faith-based organizations and individuals cannot be compelled to act against their religious beliefs in matters of marriage, adoption, and conscience. The Religious Liberty Restoration Act provides legal safeguards for churches, religious schools, and faith-based charities while maintaining anti-discrimination protections. The bill balances religious freedom with civil rights through carefully crafted exemptions.",
+    "topic_code": "207",
+    "stance": "Conservative",
+    "predicted_raw": 0.04015505313873291
+  },
+  {
+    "id": 353,
+    "summary": "The Farm Bill Reauthorization provides five-year funding for agricultural programs, nutrition assistance, and conservation initiatives. This bipartisan legislation maintains crop insurance programs while expanding support for beginning farmers and sustainable agriculture practices. The bill balances rural economic needs with environmental stewardship and food security goals through targeted investments and reformed subsidy structures.",
+    "topic_code": "400",
+    "stance": "Centrist",
+    "predicted_raw": -0.09593623876571655
+  },
+  {
+    "id": 354,
+    "summary": "The Comprehensive Child Care Act provides universal child care for families earning up to 250% of the federal poverty level and caps costs at 7% of family income for all others. This legislation establishes quality standards for child care providers and increases wages for early childhood educators. The bill recognizes child care as essential infrastructure that enables parents, particularly women, to participate fully in the workforce.",
+    "topic_code": "1308",
+    "stance": "Liberal",
+    "predicted_raw": -0.5110282897949219
+  },
+  {
+    "id": 355,
+    "summary": "This tax reform legislation simplifies the federal tax code by reducing individual rates, doubling the standard deduction, and eliminating numerous credits and deductions. The Fair and Simple Tax Act promotes economic growth through lower marginal rates while maintaining revenue neutrality through base broadening. The bill reduces complexity and compliance costs for taxpayers while encouraging investment and job creation.",
+    "topic_code": "107",
+    "stance": "Conservative",
+    "predicted_raw": 0.08592462539672852
+  },
+  {
+    "id": 356,
+    "summary": "The Public Option Healthcare Act allows Americans to purchase government-administered insurance plans through state exchanges while preserving existing employer-sponsored coverage. This legislation creates competition with private insurers through a non-profit public plan option that negotiates lower provider rates. The bill expands healthcare access and choice without eliminating private insurance options.",
+    "topic_code": "302",
+    "stance": "Centrist",
+    "predicted_raw": -0.1250571608543396
+  },
+  {
+    "id": 357,
+    "summary": "The Environmental Justice Act requires federal agencies to consider cumulative environmental impacts on disadvantaged communities when making regulatory decisions. This legislation establishes an Environmental Justice Fund to address legacy pollution in low-income neighborhoods and communities of color. The bill ensures that environmental protection efforts prioritize the health and safety of historically overburdened populations.",
+    "topic_code": "700",
+    "stance": "Liberal",
+    "predicted_raw": -0.25980252027511597
+  },
+  {
+    "id": 358,
+    "summary": "This deregulation bill reduces compliance costs for manufacturers by streamlining environmental permitting and eliminating redundant federal oversight. The Regulatory Reform Act requires cost-benefit analysis for all new environmental regulations and provides regulatory relief for small businesses. The legislation promotes job creation and economic competitiveness while maintaining essential health and safety protections.",
+    "topic_code": "700",
+    "stance": "Conservative",
+    "predicted_raw": 0.2783392667770386
+  },
+  {
+    "id": 359,
+    "summary": "The Defense Modernization Act authorizes $750 billion for military spending focused on emerging threats including cyber warfare, space operations, and artificial intelligence capabilities. This legislation prioritizes technological superiority while reducing spending on legacy weapons systems and overseas base maintenance. The bill maintains military readiness through strategic investments in 21st-century defense priorities.",
+    "topic_code": "1610",
+    "stance": "Conservative",
+    "predicted_raw": 0.14286327362060547
+  },
+  {
+    "id": 360,
+    "summary": "This peace dividend legislation reduces military spending by $100 billion over five years while increasing investments in diplomacy, foreign aid, and conflict prevention programs. The Sustainable Security Act emphasizes multilateral cooperation and addresses root causes of global instability through development assistance. The bill redirects resources from military interventions toward peaceful approaches to international security.",
+    "topic_code": "1600",
+    "stance": "Liberal",
+    "predicted_raw": 0.011223793029785156
+  },
+  {
+    "id": 361,
+    "summary": "The Student Debt Relief Act provides up to $50,000 in federal student loan forgiveness for borrowers earning less than $125,000 annually. This legislation eliminates interest on existing federal student loans and expands income-driven repayment options. The bill addresses the student debt crisis that prevents millions of Americans from homeownership, starting businesses, and building wealth.",
+    "topic_code": "601",
+    "stance": "Liberal",
+    "predicted_raw": -0.2134745717048645
+  },
+  {
+    "id": 362,
+    "summary": "This higher education reform bill increases accountability for colleges by tying federal funding to job placement rates and graduate earnings outcomes. The College Accountability Act requires transparent reporting of program costs and employment prospects while promoting alternative credentialing pathways. The legislation protects taxpayers by ensuring that federal education investments produce measurable returns for students.",
+    "topic_code": "601",
+    "stance": "Conservative",
+    "predicted_raw": -0.20508742332458496
+  },
+  {
+    "id": 363,
+    "summary": "The Rural Development Investment Act provides targeted funding for broadband infrastructure, healthcare facilities, and economic development in underserved rural communities. This bipartisan legislation recognizes unique challenges facing rural America while leveraging federal resources to attract private investment. The bill promotes economic opportunity and quality of life improvements through strategic rural investments.",
+    "topic_code": "1405",
+    "stance": "Centrist",
+    "predicted_raw": -0.37658339738845825
+  },
+  {
+    "id": 364,
+    "summary": "The Wealth Tax Act imposes a 2% annual tax on household net worth exceeding $50 million and 3% on wealth over $1 billion. This legislation generates revenue to fund education, infrastructure, and healthcare while addressing extreme inequality. The bill ensures that the wealthiest Americans contribute their fair share to the common good through progressive taxation of accumulated assets.",
+    "topic_code": "107",
+    "stance": "Liberal",
+    "predicted_raw": -0.17951953411102295
+  },
+  {
+    "id": 365,
+    "summary": "This capital gains tax reform eliminates the step-up basis for inherited assets while reducing rates for investments held longer than five years. The Investment Incentive Act encourages long-term investment and entrepreneurship while ensuring that inherited wealth faces appropriate taxation. The legislation balances revenue generation with economic growth incentives through reformed capital gains treatment.",
+    "topic_code": "107",
+    "stance": "Conservative",
+    "predicted_raw": -0.08188486099243164
+  },
+  {
+    "id": 366,
+    "summary": "The Mental Health Parity Enforcement Act strengthens requirements for insurance companies to provide equal coverage for mental health and substance abuse treatment. This legislation establishes federal oversight of parity compliance and provides funding for additional mental health professionals in underserved areas. The bill recognizes mental health as essential to overall health and ensures access to needed treatment services.",
+    "topic_code": "333",
+    "stance": "Liberal",
+    "predicted_raw": -0.3002399206161499
+  },
+  {
+    "id": 367,
+    "summary": "This veterans' healthcare bill expands access to private medical providers for veterans who cannot receive timely care at VA facilities. The Veterans Choice Enhancement Act provides vouchers for veterans to seek treatment outside the VA system while maintaining core VA medical services. The legislation prioritizes veteran health outcomes through increased choice and competition among healthcare providers.",
+    "topic_code": "1609",
+    "stance": "Conservative",
+    "predicted_raw": 0.054292917251586914
+  },
+  {
+    "id": 368,
+    "summary": "The Bipartisan Infrastructure Resilience Act invests in climate adaptation measures including flood barriers, wildfire prevention, and grid hardening against extreme weather events. This legislation combines federal funding with state and local matching requirements to build infrastructure capable of withstanding climate impacts. The bill protects communities and economic assets through science-based resilience planning.",
+    "topic_code": "1010",
+    "stance": "Centrist",
+    "predicted_raw": -0.4196426272392273
+  },
+  {
+    "id": 369,
+    "summary": "The Worker Cooperative Development Act provides federal grants and loans to help employees purchase businesses when owners retire or sell. This legislation promotes worker ownership through technical assistance, financing, and tax incentives for cooperative conversions. The bill democratizes workplace decision-making while preserving local businesses and jobs in communities nationwide.",
+    "topic_code": "1521",
+    "stance": "Liberal",
+    "predicted_raw": -0.3118649125099182
+  },
+  {
+    "id": 370,
+    "summary": "This small business support bill eliminates regulatory barriers and provides tax incentives for startup companies and family-owned enterprises. The Entrepreneurship Promotion Act reduces paperwork burdens and expedites licensing processes while providing access to federal contracts for small businesses. The legislation fosters innovation and job creation through reduced government interference in business operations.",
+    "topic_code": "1521",
+    "stance": "Conservative",
+    "predicted_raw": 0.16455912590026855
+  },
+  {
+    "id": 371,
+    "summary": "The Affordable Internet Access Act provides subsidies for low-income families to access high-speed broadband service and devices necessary for remote work and education. This legislation treats internet access as a public utility while supporting competition among service providers. The bill addresses the digital divide through targeted assistance that ensures all Americans can participate in the digital economy.",
+    "topic_code": "1707",
+    "stance": "Liberal",
+    "predicted_raw": -0.29586607217788696
+  },
+  {
+    "id": 372,
+    "summary": "This telecommunications reform bill reduces regulatory barriers to broadband deployment by streamlining permitting for cell towers and fiber optic cables. The Digital Infrastructure Act promotes 5G network development through public-private partnerships while protecting property rights. The legislation accelerates broadband expansion through market-based approaches that encourage private investment in network infrastructure.",
+    "topic_code": "1707",
+    "stance": "Conservative",
+    "predicted_raw": 0.19906651973724365
+  },
+  {
+    "id": 373,
+    "summary": "The Public Banking Act allows states and municipalities to establish public banks that keep taxpayer deposits local and provide affordable lending for community development projects. This legislation creates an alternative to Wall Street banks while generating revenue for public services through banking profits. The bill promotes community economic development and reduces dependence on large financial institutions.",
+    "topic_code": "1501",
+    "stance": "Liberal",
+    "predicted_raw": -0.16746395826339722
+  },
+  {
+    "id": 374,
+    "summary": "This financial services reform bill reduces regulatory compliance costs for community banks and credit unions while maintaining consumer protections. The Community Banking Relief Act eliminates redundant reporting requirements and raises asset thresholds for enhanced regulatory oversight. The legislation supports local financial institutions that serve small businesses and rural communities through targeted regulatory relief.",
+    "topic_code": "1501",
+    "stance": "Conservative",
+    "predicted_raw": 0.06353878974914551
+  },
+  {
+    "id": 375,
+    "summary": "The Bipartisan Trade Modernization Act updates trade agreements to include labor rights, environmental standards, and digital commerce provisions. This legislation maintains free trade principles while ensuring that agreements benefit American workers and protect environmental quality. The bill balances economic openness with strong enforcement mechanisms for trade agreement compliance.",
+    "topic_code": "1802",
+    "stance": "Centrist",
+    "predicted_raw": -0.021823585033416748
+  },
+  {
+    "id": 376,
+    "summary": "The Jobs and Justice Act establishes a federal job guarantee program prioritizing formerly incarcerated individuals and other marginalized populations. This legislation provides employment in environmental restoration, infrastructure, and social services while offering education and training opportunities. The bill addresses systemic inequality through guaranteed employment that builds community wealth and promotes economic inclusion.",
+    "topic_code": "103",
+    "stance": "Liberal",
+    "predicted_raw": -0.45285046100616455
+  },
+  {
+    "id": 377,
+    "summary": "This criminal justice reform bill expands expungement opportunities for non-violent offenses and provides tax incentives for businesses that hire formerly incarcerated individuals. The Second Chance Employment Act removes barriers to employment while maintaining public safety through appropriate background check procedures. The legislation promotes successful reentry through market-based incentives for job creation.",
+    "topic_code": "1205",
+    "stance": "Conservative",
+    "predicted_raw": -0.28654032945632935
+  },
+  {
+    "id": 378,
+    "summary": "The National Service Expansion Act doubles AmeriCorps funding and creates new service opportunities in education, disaster relief, and environmental conservation. This bipartisan legislation provides college scholarships and student loan forgiveness for participants while addressing critical community needs. The bill strengthens civic engagement and community resilience through expanded national service programs.",
+    "topic_code": "1305",
+    "stance": "Centrist",
+    "predicted_raw": -0.364176869392395
+  },
+  {
+    "id": 379,
+    "summary": "The Care Economy Investment Act provides federal funding for home care services, universal paid family leave, and child care support for working families. This legislation recognizes care work as essential to economic productivity while addressing gender inequities in unpaid labor responsibilities. The bill invests in care infrastructure that enables workforce participation while supporting aging populations and children.",
+    "topic_code": "1308",
+    "stance": "Liberal",
+    "predicted_raw": -0.4579274654388428
+  },
+  {
+    "id": 380,
+    "summary": "This family support bill provides tax credits for families with children while maintaining work requirements for able-bodied adults receiving government assistance. The Family Independence Act promotes personal responsibility through education and job training programs. The legislation strengthens families through targeted support that encourages self-sufficiency and economic mobility.",
+    "topic_code": "1302",
+    "stance": "Conservative",
+    "predicted_raw": -0.05177038908004761
+  },
+  {
+    "id": 381,
+    "summary": "The Clean Water Infrastructure Act authorizes $45 billion over five years to replace lead pipes, upgrade water treatment plants, and protect drinking water sources from contamination. This legislation prioritizes disadvantaged communities with the greatest infrastructure needs while establishing updated safety standards. The bill ensures that all Americans have access to clean, safe drinking water through strategic federal investment.",
+    "topic_code": "701",
+    "stance": "Liberal",
+    "predicted_raw": -0.446108341217041
+  },
+  {
+    "id": 382,
+    "summary": "This water infrastructure bill promotes public-private partnerships to modernize aging water systems while reducing federal spending commitments. The Water System Modernization Act provides loan guarantees and tax incentives for private investment in water infrastructure. The legislation addresses infrastructure needs through market mechanisms that leverage private capital for public benefit.",
+    "topic_code": "701",
+    "stance": "Conservative",
+    "predicted_raw": -0.1743595004081726
+  },
+  {
+    "id": 383,
+    "summary": "The Bipartisan Research Investment Act increases federal funding for basic scientific research while promoting technology transfer from universities to private industry. This legislation supports both fundamental research and applied innovation through coordinated public-private partnerships. The bill maintains American scientific leadership through sustained investment in research and development across multiple agencies.",
+    "topic_code": "1798",
+    "stance": "Centrist",
+    "predicted_raw": -0.1747916340827942
+  },
+  {
+    "id": 384,
+    "summary": "The Universal Basic Income Pilot Program Act establishes demonstration projects in diverse communities to test guaranteed income programs of $1,000 per month for adults. This legislation evaluates the impacts of unconditional cash transfers on poverty, employment, health, and education outcomes. The bill explores innovative approaches to economic security in an era of technological change and economic uncertainty.",
+    "topic_code": "1302",
+    "stance": "Liberal",
+    "predicted_raw": -0.2251327633857727
+  },
+  {
+    "id": 385,
+    "summary": "This welfare reform bill strengthens work requirements and time limits for government assistance programs while providing job training and child care support. The Personal Responsibility Enhancement Act promotes self-sufficiency through education and employment services. The legislation balances safety net protections with incentives for economic independence and personal advancement.",
+    "topic_code": "1302",
+    "stance": "Conservative",
+    "predicted_raw": -0.11301213502883911
+  },
+  {
+    "id": 386,
+    "summary": "The Coastal Resilience and Restoration Act invests $25 billion in living shorelines, wetland restoration, and flood protection infrastructure in coastal communities. This legislation combines nature-based solutions with traditional engineering approaches to address sea level rise and storm surge risks. The bill protects coastal economies and ecosystems through science-based adaptation strategies.",
+    "topic_code": "710",
+    "stance": "Liberal",
+    "predicted_raw": -0.11156100034713745
+  },
+  {
+    "id": 387,
+    "summary": "This coastal protection bill promotes property rights and local decision-making in flood protection while providing federal disaster relief funding. The Coastal Property Rights Act ensures that environmental regulations do not constitute unfair takings of private property. The legislation balances conservation goals with constitutional protections for property owners in coastal areas.",
+    "topic_code": "710",
+    "stance": "Conservative",
+    "predicted_raw": -0.1615927815437317
+  },
+  {
+    "id": 388,
+    "summary": "The National Apprenticeship Expansion Act creates registered apprenticeship programs in emerging industries including renewable energy, healthcare, and information technology. This bipartisan legislation partners with labor unions, employers, and educational institutions to provide earn-while-you-learn opportunities. The bill addresses skills gaps while providing pathways to middle-class careers without requiring four-year college degrees.",
+    "topic_code": "502",
+    "stance": "Centrist",
+    "predicted_raw": -0.4745272994041443
+  },
+  {
+    "id": 389,
+    "summary": "The Corporate Accountability Act requires large corporations to obtain federal charters that include obligations to consider stakeholder interests beyond shareholder profits. This legislation mandates board representation for workers and communities while establishing environmental and social performance standards. The bill holds corporations accountable for their impacts on workers, communities, and the environment.",
+    "topic_code": "1520",
+    "stance": "Liberal",
+    "predicted_raw": -0.43134111166000366
+  },
+  {
+    "id": 390,
+    "summary": "This business protection bill shields corporations from frivolous lawsuits and reduces regulatory compliance costs through streamlined permitting processes. The Business Freedom Act promotes entrepreneurship and job creation by eliminating unnecessary bureaucratic barriers. The legislation protects the free enterprise system that drives American innovation and economic prosperity.",
+    "topic_code": "1520",
+    "stance": "Conservative",
+    "predicted_raw": -0.09505486488342285
+  },
+  {
+    "id": 391,
+    "summary": "The Pandemic Preparedness Act establishes a national stockpile of medical supplies and creates rapid response manufacturing capabilities for future health emergencies. This legislation invests in public health infrastructure and disease surveillance systems while supporting domestic pharmaceutical production. The bill ensures that America is prepared for future pandemic threats through comprehensive emergency planning.",
+    "topic_code": "331",
+    "stance": "Liberal",
+    "predicted_raw": -0.2390637993812561
+  },
+  {
+    "id": 392,
+    "summary": "This public health reform bill promotes state flexibility in health emergency responses while reducing federal mandates on businesses and individuals. The Health Freedom Act protects individual liberty during health emergencies while maintaining essential disease control capabilities. The legislation balances public health goals with constitutional rights and economic freedoms.",
+    "topic_code": "331",
+    "stance": "Conservative",
+    "predicted_raw": -0.008115172386169434
+  },
+  {
+    "id": 393,
+    "summary": "The Bipartisan Electoral Reform Act modernizes election administration through updated voting equipment, improved cybersecurity measures, and streamlined voter registration processes. This legislation provides federal grants for election infrastructure while maintaining state control over election procedures. The bill strengthens election integrity and voter confidence through technological improvements and standardized security protocols.",
+    "topic_code": "206",
+    "stance": "Centrist",
+    "predicted_raw": -0.32042694091796875
+  },
+  {
+    "id": 394,
+    "summary": "The Transportation Electrification Act provides federal incentives for electric vehicle purchases and mandates charging station installation along interstate highways. This legislation accelerates the transition to electric transportation through consumer subsidies and infrastructure investment. The bill reduces transportation emissions while creating manufacturing jobs in the growing electric vehicle industry.",
+    "topic_code": "1006",
+    "stance": "Liberal",
+    "predicted_raw": -0.2784530520439148
+  }
+]

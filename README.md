@@ -1,6 +1,6 @@
 ## Pretrained Model and Training Code
 
-This repository includes both the training scripts and the pretrained model (`model.pt`). You can install this from --> https://drive.google.com/file/d/1fk6lUQAuB0t5m_o-7Qt6Ox8wo6bU04YS/view?usp=sharing
+This repository includes both the training scripts and the pretrained model (`model.pt`). You can install this from --> https://drive.google.com/file/d/1k0RxLq33219ElJvv8D63Ee3kUwbzRzpt/view?usp=sharing
 
 - The **training code** is provided to ensure full reproducibility and transparency, demonstrating how the model was built and trained from scratch.
 - The **pretrained model file** allows you to skip training and run inference directly.
