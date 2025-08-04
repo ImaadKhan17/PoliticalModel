@@ -20,7 +20,6 @@ env/
 *.h5
 *.pt
 *.pth
-*.pkl
 *.joblib
 *.ckpt
 *.tflite
