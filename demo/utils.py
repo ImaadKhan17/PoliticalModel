@@ -1,12 +1,12 @@
 import streamlit as st
 import torch
-from demo.model import PolitcalModel
+from model import PolitcalModel
 from transformers import AutoTokenizer
 import pickle
 import json
 import gdown
 
-url = "https://drive.google.com/file/d/1k0RxLq33219ElJvv8D63Ee3kUwbzRzpt"
+url = "https://drive.google.com/uc?id=1k0RxLq33219ElJvv8D63Ee3kUwbzRzpt"
 output = 'model.pth'
 gdown.download(url, output, quiet=False)
 
@@ -28,7 +28,9 @@ with open('label_encoder.pkl', 'rb') as f:
 @st.cache_resource
 def load_model():
     model = PolitcalModel(model_name, num_classes).to(device)
-    model.load_state_dict(torch.load("model.pth", map_location=torch.device('cpu')))
+    model.load_state_dict(
+    torch.load("model.pth", map_location="cpu", weights_only=False)
+    )
     model.eval()
     return model
 

@@ -5,8 +5,11 @@ from utils import predict
 
 st.title('Infer Politcal Stance and Topic')
 
+st.subheader("Current Issue:")
+st.text("Model performs better on libereal texts; working on improving conservative text interpretation with more data.")
 
-input = st.text_area(label="Text", placeholder="Input Your Text", max_chars=3800, height="content")
+
+input = st.text_area(label="Input Text", placeholder="Input Your Text", max_chars=3800, height="content")
 
 if st.button(label="Submit"):
     with st.spinner("Infering..", show_time=True):
@@ -19,6 +22,7 @@ if st.button(label="Submit"):
 
     st.info(stance)
     
+
 
 
 
