@@ -5,8 +5,7 @@ from utils import predict
 
 st.title('Infer Politcal Stance and Topic')
 
-st.subheader("Current Issue:")
-st.text("Model performs better on libereal texts; working on improving conservative text interpretation with more data.")
+st.markdown("This app analyzes a given text to predict its political topic, subtopic, and inferred political stance on the left–right spectrum.")
 
 
 input = st.text_area(label="Input Text", placeholder="Input Your Text", max_chars=3800, height="content")
@@ -21,6 +20,8 @@ if st.button(label="Submit"):
     st.markdown(f"**Stance Score:** `{raw_stance:.3f}`")
 
     st.info(stance)
+
+    st.markdown("*Note: The model currently performs more accurately on liberal-leaning texts. Improving balance is part of ongoing work with more conservative data.*")
     
 
 
