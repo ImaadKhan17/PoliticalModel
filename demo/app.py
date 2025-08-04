@@ -21,7 +21,7 @@ if st.button(label="Submit"):
 
     st.info(stance)
 
-    st.markdown("*Note: The model currently performs more accurately on liberal-leaning texts. Improving balance is part of ongoing work with more conservative data.*")
+    st.markdown("*Note: The model currently performs more accurately on liberal-leaning texts. Improving balance is part of ongoing work with more conservative text data.*")
     
 
 

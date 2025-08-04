@@ -1,4 +1,4 @@
-# Python
+
 __pycache__/
 *.py[cod]
 *.so
@@ -7,17 +7,16 @@ __pycache__/
 dist/
 build/
 
-# Virtual environments
+
 venv/
 .env/
 .venv/
 ENV/
 env/
 
-# Jupyter Notebook checkpoints
+
 .ipynb_checkpoints
 
-# Model files and large data
 *.h5
 *.pt
 *.pth
@@ -26,18 +25,20 @@ env/
 *.ckpt
 *.tflite
 
-# VS Code
+
 .vscode/
 
-# macOS
+
 .DS_Store
 
-# Logs
+
 *.log
 
-# Streamlit secrets (keep your keys safe!)
+
 .streamlit/secrets.toml
 
-# System files
+
 Thumbs.db
 ehthumbs.db
+
+*.part
