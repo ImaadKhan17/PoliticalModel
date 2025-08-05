@@ -12,7 +12,7 @@ input = st.text_area(label="Input Text", placeholder="Input Your Text", max_char
 
 if st.button(label="Submit"):
     with st.spinner("Infering..", show_time=True):
-        major, minor, stance, raw_stance = predict(input)
+        major, minor, stance, raw_stance = predict(input.strip())
 
     st.subheader("Prediction Results")
     st.markdown(f"**Major Category:** {major}")
