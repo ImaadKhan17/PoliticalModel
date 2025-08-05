@@ -1,13 +1,21 @@
 ## Pretrained Model and Training Code
 
-This repository includes both the training scripts and the pretrained model (`model.pt`). You can install this from --> https://drive.google.com/file/d/1k0RxLq33219ElJvv8D63Ee3kUwbzRzpt/view?usp=sharing
+This repository includes both the training scripts and the pretrained model (`model.pt`).  
+You can download the pretrained model here:  
+https://drive.google.com/file/d/1k0RxLq33219ElJvv8D63Ee3kUwbzRzpt/view?usp=sharing
 
-- The **training code** is provided to ensure full reproducibility and transparency, demonstrating how the model was built and trained from scratch.
-- The **pretrained model file** allows you to skip training and run inference directly.
+- The training code shows how the model was built and trained from scratch.
+- The pretrained model lets you skip training and run inference directly.
 
-### Using the Pretrained Model for Inference
+## Live Demo
 
-You can use the provided `inference.py` script to make predictions on any bill summary or legislative text, then use the PDF for codes to see what it corresponds to. A negative value for stance means, Liberal(DEM) and positive means Conservative(GOP).
+Try the app here:  
+https://politicalapp.streamlit.app/
+
+## Using the Pretrained Model
+
+Use `inference.py` to make predictions on any bill summary or legislative text.  
+A negative stance value means Liberal (DEM), and a positive value means Conservative (GOP).
 
 Example:
 
