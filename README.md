@@ -11,6 +11,7 @@ https://drive.google.com/file/d/1k0RxLq33219ElJvv8D63Ee3kUwbzRzpt/view?usp=shari
 
 Try the app here:  
 https://politicalapp.streamlit.app/
+(This demo shows the model for labelling bills)
 
 ## Using the Pretrained Model
 
