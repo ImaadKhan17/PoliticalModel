@@ -1,6 +1,6 @@
 import * as z from "zod";
 
-const IssueStanceSchema = z.object({
+export const IssueStanceSchema = z.object({
   stance: z
     .number()
     .min(-1)
@@ -9,7 +9,7 @@ const IssueStanceSchema = z.object({
 });
 
 
-const issueKeys = [
+export const issueKeys = [
   "Economy",
   "Healthcare",
   "Immigration",
@@ -24,7 +24,7 @@ const issueKeys = [
   "Labor",
 ] as const;
 
-type IssueKey = (typeof issueKeys)[number];
+export type IssueKey = (typeof issueKeys)[number];
 
 const IssuesSchema = z.object({
   Economy: IssueStanceSchema,
@@ -53,3 +53,5 @@ export const PoliticianSchema = z.object({
   tags: z.array(z.string().min(1)).min(1),
   blurb: z.string().min(20),
 });
+
+export type Politician = z.infer<typeof PoliticianSchema>;
