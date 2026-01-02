@@ -1,5 +1,23 @@
 "use client";
+import { UserVector } from "@/lib/schema/uservector.schema";
+import { routerServerGlobal } from "next/dist/server/lib/router-utils/router-server-context";
+import { useRouter } from "next/navigation";
 
+
+export const DEMO_USER_VECTOR: UserVector = {
+  Economy: { stance: 0.4, importance: 0.7 },
+  Healthcare: { stance: 0.6, importance: 0.9 },
+  Immigration: { stance: 0.2, importance: 0.3 },
+  Climate: { stance: 0.9, importance: 1.0 },
+  Energy: { stance: 0.7, importance: 0.6 },
+  Education: { stance: 0.5, importance: 0.5 },
+  CivilRights: { stance: 0.6, importance: 0.4 },
+  Crime: { stance: -0.2, importance: 0.2 },
+  Defense: { stance: -0.4, importance: 0.2 },
+  Tech: { stance: 0.3, importance: 0.3 },
+  Housing: { stance: 0.8, importance: 1.0 },
+  Labor: { stance: 0.5, importance: 0.6 },
+};
 
 const US_STATES = [
   { value: "", label: "Select a state (optional)" },
@@ -56,16 +74,40 @@ const US_STATES = [
 ];
 
 export default function Home() {
-  const handleFindMatches = (e: React.FormEvent<HTMLFormElement>) => {
+  const router = useRouter();
+  const handleFindMatches = async (e: React.FormEvent<HTMLFormElement>) => {
     e.preventDefault();
-    // TODO: implement later
+    const formData = new FormData(e.currentTarget);
+
+    const priorities = String(formData.get("priorities"));
+
+    const state = String(formData.get("state"));
+
+    //Here is where the parse info will go
+
+
+
+    const payload = {"userVector": DEMO_USER_VECTOR, ...(state && {state}) };
+
+    const res = await fetch("/api/match", {
+      method: "POST",
+      headers: {
+        "Content-Type": "application/json",
+      },
+      body: JSON.stringify(payload),
+    });
+
+    const data = await res.json();
+
+    sessionStorage.setItem("match_data", JSON.stringify(data))
+
+    router.push("/results")
   };
 
   return (
     <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
       <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-center bg-white py-24 px-6 dark:bg-black sm:px-16">
         <div className="w-full">
-
           <div className="mb-10 space-y-3 text-center sm:text-left">
             <h1 className="text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
               Find matches based on what you care about.
