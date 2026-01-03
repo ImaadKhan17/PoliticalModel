@@ -81,27 +81,38 @@ export default function Home() {
 
     const priorities = String(formData.get("priorities"));
 
-    const state = String(formData.get("state"));
+    const rawState = formData.get("state");
+    const state = typeof rawState === "string" ? rawState : "";
+
 
     //Here is where the parse info will go
 
 
 
-    const payload = {"userVector": DEMO_USER_VECTOR, ...(state && {state}) };
-
-    const res = await fetch("/api/match", {
+    const parseRes = await fetch("/api/parse", {
       method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-      },
-      body: JSON.stringify(payload),
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({ text: priorities }),
     });
+    const parseJson = await parseRes.json();
+    const userVector = parseJson.userVector;
 
-    const data = await res.json();
+    const matchPayload = {
+      userVector,
+      ...(state && { state }),
+    };
 
-    sessionStorage.setItem("match_data", JSON.stringify(data))
+    const matchRes = await fetch("/api/match", {
+      method: "POST",
+      headers: { "Content-Type": "application/json" },
+      body: JSON.stringify(matchPayload),
+    });
+    const matchJson = await matchRes.json();
 
-    router.push("/results")
+
+   sessionStorage.setItem("match_data", JSON.stringify(matchJson));
+   router.push("/results");
+
   };
 
   return (
