@@ -121,7 +121,7 @@ export default function Home() {
         <div className="w-full">
           <div className="mb-10 space-y-3 text-center sm:text-left">
             <h1 className="text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-              Find matches based on what you care about.
+              Find Politicians based on what you care about.
             </h1>
             <p className="max-w-xl text-lg leading-8 text-zinc-600 dark:text-zinc-400">
               Describe your priorities and optionally choose a state. Then hit{" "}
@@ -143,7 +143,7 @@ export default function Home() {
               <textarea
                 id="priorities"
                 name="priorities"
-                placeholder="Example: I care most about affordability, housing, reducing climate change..."
+                placeholder="Example: I care most about increasing affordability, immigration, reducing climate change..."
                 rows={6}
                 className="w-full resize-y rounded-2xl border border-black/[.08] bg-white px-4 py-3 text-base text-zinc-950 shadow-sm outline-none transition focus:border-black/20 focus:ring-2 focus:ring-black/10 dark:border-white/[.145] dark:bg-black dark:text-zinc-50 dark:focus:border-white/30 dark:focus:ring-white/10"
               />
