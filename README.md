@@ -9,7 +9,11 @@ https://drive.google.com/file/d/1k0RxLq33219ElJvv8D63Ee3kUwbzRzpt/view?usp=shari
 
 ## Live Demo
 
-Try the app here:  
+Try the FULL app demo here:
+
+https://political-model.vercel.app/
+
+Try the bill classifier here:  
 https://politicalapp.streamlit.app/
 (This demo shows the model for labelling bills)
 
