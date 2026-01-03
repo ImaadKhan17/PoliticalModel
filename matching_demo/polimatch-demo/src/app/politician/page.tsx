@@ -82,18 +82,18 @@ export default function PoliticianPage() {
   }, [profile]);
 
   useEffect(() => {
-    if (!idParam) return;
-
     let cancelled = false;
 
-    async function run() {
+    async function run(id: string) {
       setLoading(true);
       setError(null);
 
       try {
-        const res = await fetch(
-          `/api/politician?id=${encodeURIComponent(idParam)}`
-        );
+        //  avoids encodeURIComponent(null) and handles encoding safely
+        const url = new URL("/api/politician", window.location.origin);
+        url.searchParams.set("id", id);
+
+        const res = await fetch(url.toString());
         const json = await res.json().catch(() => null);
 
         if (!res.ok) {
@@ -103,19 +103,33 @@ export default function PoliticianPage() {
           throw new Error(msg);
         }
 
-        if (!cancelled) setProfile(json.politicians);
-      } catch (e: any) {
-        if (!cancelled) setError(e?.message || "Failed to load profile");
+        if (!cancelled) setProfile(json?.politicians ?? null);
+      } catch (e: unknown) {
+        const message =
+          e instanceof Error ? e.message : "Failed to load profile";
+        if (!cancelled) {
+          setError(message);
+          setProfile(null);
+        }
       } finally {
         if (!cancelled) setLoading(false);
       }
     }
 
-    run();
+    if (!idParam) {
+      // optional: clear state if someone navigates to /politician without id
+      setProfile(null);
+      setError(null);
+      setLoading(false);
+      return;
+    }
+
+    run(idParam);
+
     return () => {
       cancelled = true;
     };
-  }, [idParam]); // ✅ depends on the actual query param
+  }, [idParam]);
 
   if (!idParam) {
     return (
@@ -215,7 +229,9 @@ export default function PoliticianPage() {
                       {k}
                     </div>
                   </div>
-                  <StanceBar stance={profile.issues[k].stance} />
+
+                  {/*  safe access even if issues is missing somehow */}
+                  <StanceBar stance={profile.issues?.[k]?.stance ?? 0} />
                 </div>
               ))
             ) : loading ? (
